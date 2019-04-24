@@ -1,1 +1,512 @@
-[{"name": "酷狗音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/02/22/8/2_a6965152f652fbcbd335a0d9e97d6696.apk?yingid=wdj_client&packageid=600771035&md5=28d8ee3ecfa5406bec8b4c7fce79d6e4&minSDK=16&size=60042195&shortMd5=f87bd12510fd8e280dfe22e9472f7997&crc32=1942765317&did=b65a55954e06d4464576cc721e243c22"}, {"name": "唱吧", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/11/110_3e4be290c0eb83405eccfdad3913613a.apk?yingid=wdj_client&packageid=200768892&md5=abae465cb669887825df0dad25ff93f7&minSDK=18&size=92512752&shortMd5=535b958f72c7dead038d7533f7884cf0&crc32=1342486463&did=29f7cf656c854bc3862f2780486884b9"}, {"name": "西瓜视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/4/110_b5b944bb6a71400c5b0ce562a794946f.apk?yingid=wdj_client&packageid=400764374&md5=d04331d7e4f0a506bf53bfc0881314e9&minSDK=14&size=15455421&shortMd5=df0c1a3c446aa77c7f7cd4bc0eee611d&crc32=4094287242&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDU5OTIwM2BkS2V5PTgwMDgxOTIzNGVkYTZmNTg0MWFjYmU3MjNkZWI3YjlmYGlLZXk9MjNkNGU0YmU5YjY1YTA3MDllN2ZiZWRhZjdlNzc2ZWU&did=24e8505829bbefec3e6eb63854ffe583"}, {"name": "咪咕音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/0/110_21197cb0199f77c95254146fff971320.apk?yingid=wdj_client&packageid=400763144&md5=81024a1c78693fafd796925fbc507c78&minSDK=16&size=96419683&shortMd5=95914fbd9f9a22462322400251e7b03f&crc32=593034464&did=cb18812b86a9d21101eaf14fa44a4a39"}, {"name": "优酷视频-绿皮书精彩呈现", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/1/110_8ef665e5f95762d557281f8219f70757.apk?yingid=wdj_client&packageid=800769159&md5=b977dfe25dbfc8822ca9fb61300de4f8&minSDK=16&size=44592473&shortMd5=b89942ef14cfd9eb7ca431b99aa10950&crc32=4236439688&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMTIxNzU0OWBkS2V5PTA1YTFlYzMxN2QyYWZlOWQ1ZWJiNDVmNWM3NGEyMjBkYGlLZXk9ZDJkZDU5NjM1MzM1YjhjNmY4Y2UxMjQ4ZjMzZGY5M2M&did=75bd0fab44e01dc10560794f43742655"}, {"name": "腾讯视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/6/106_eedab17821fcaf9a8e96d88c33312a3f.apk?yingid=wdj_client&packageid=600786240&md5=d52676a9473b678abec85c4ccf64e420&minSDK=14&size=45403530&shortMd5=165642e52094e4ef07fd3db423f924bf&crc32=3884793457&did=20e7c03a970e3759927bebbbec69a1fe"}, {"name": "火山小视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/6/110_cd85225bef6f5384cfe6d431b4644383.apk?yingid=wdj_client&packageid=400765174&md5=62d1b65a98fb5e5775bee5e4cc94b50a&minSDK=14&size=30405843&shortMd5=c8907a6da8b8542c6a6462bd6c213b85&crc32=3418593231&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDU5OTIzNmBkS2V5PWZiMjkwMzg0OWE0ZTFiNjMxZWMyYjM2ODkxNDdkNTFjYGlLZXk9MGU1NzUwYmYxMDZkNTYyMTllZDRjYTRhZmU5YTE3ZTU&did=937e8d08f5263d9d1e73c3c41ade657a"}, {"name": "QQ音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/1/1_034a14f4425236eb750189fbc0d3c9c1.apk?yingid=wdj_client&packageid=400760311&md5=581a6f7a52c99161b0888530353b2f2f&minSDK=14&size=60349498&shortMd5=e59e41bba1985191b6d30459b505556f&crc32=3257721913&did=feb8d674b6a42f7e1ca2cdcedb91a6ee"}, {"name": "铃声多多", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/5/106_2068e1ba917c3ab50bc41537d676faca.apk?yingid=wdj_client&packageid=400765163&md5=f85510b2fd7337b8324837fc4b0515c6&minSDK=14&size=15159439&shortMd5=277e94188aa3968396aceb88e5c80d76&crc32=639944988&did=1bae549a9739c8ff54d6a6a55990bc63"}, {"name": "酷我音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/6/106_9a8adcc14309505589cc8da6b38a41ab.apk?yingid=wdj_client&packageid=800771840&md5=9b53f2730a8ff64e7c96c051925f3b99&minSDK=16&size=52152805&shortMd5=4e6a937c374fbfc43050142813b23347&crc32=4241112130&did=6640b21f1844bb68903b8673bc8cd8aa"}, {"name": "网易云音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/9/106_7955c4b45adea087aba358d8e60dbdc9.apk?yingid=wdj_client&packageid=200773011&md5=88cdbef32a6adb26c957d037f8a873fa&minSDK=16&size=55331086&shortMd5=fb0284254172f8a94b952616aeae37d2&crc32=4066427146&did=2e9a7d260cd23cfa5988a5bdb3457ab7"}, {"name": "PP视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/5/106_f26a50f86b9f8f21ec743e2d96bda6e2.apk?yingid=wdj_client&packageid=400762870&md5=75705901b41de7e45a61ddd874173e39&minSDK=15&size=78912262&shortMd5=d1ad02b4fb8485510500733957be49d6&crc32=1866622484&did=75e712efc885d05dec89246fd8a30427"}, {"name": "哔哩哔哩", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/0/110_4d1a8e2083aae4e153ab7d41667caec1.apk?yingid=wdj_client&packageid=400761609&md5=5ebf2326995ad0c5e17dca20b21f61f8&minSDK=15&size=87785024&shortMd5=664b68218d4f75e304b47915c8b21c67&crc32=2709233896&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMTQ0OTAyNWBkS2V5PTA2MjVhZDI4MDlhMTdkMjg1N2E2MTAyYjNjYWI5M2Y1YGlLZXk9NGI1MzM2ZDRiMWZmNWE1ODlhMzhiMWVlZTZkYzU2M2Q&did=b8b597cbc3643a7e563a344a44bede50"}, {"name": "万能视频播放器", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/23/0/110_c1143c042098e02a9710727621287dcb.apk?yingid=wdj_client&packageid=800726244&md5=f710ec99e1a6f0ce80918c7f16696cc0&minSDK=14&size=10915324&shortMd5=fd61188686b8def4f9ed101d27451f97&crc32=3488062415&did=cae5604c9e2b8d72a4ba7bf8dba43464"}, {"name": "影音先锋", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/4/106_9fb7eaa3f65c5e54b8597a4c1bb80839.apk?yingid=wdj_client&packageid=800769008&md5=f7e23bf5c42402d2fb65031bb729bd68&minSDK=14&size=26058777&shortMd5=4c338cc7d8e90f7416a5946fff549bf5&crc32=722182833&did=56f09d4a56fd67413a32d33d58461220"}, {"name": "影视大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/5/106_0f7dbe2f645bf6bd1ff4940a08948f03.apk?yingid=wdj_client&packageid=800767905&md5=002132096b8c62dcb335a67fe57df556&minSDK=16&size=10262704&shortMd5=c01e0ccb8951fb74b92d8778425758cb&crc32=2609834683&did=432596a18339b5f0223e7198d522cfbb"}, {"name": "影视大全高清版", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/6/110_059682ee15ce27dd079766976aeed018.apk?yingid=wdj_client&packageid=700497992&md5=038f4715f96fe58e1473e8e70a4e6a34&minSDK=16&size=21181006&shortMd5=cac45d200be1de8d26c32e6cddb22c1e&crc32=3187693359&did=4dfbbe90f4259e1f59e55f3018689784"}, {"name": "咪咕视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/2/110_fd78dd73ed421f61081ab238b3b94dea.apk?yingid=wdj_client&packageid=600785093&md5=b048c4cb0515f42f51022c0a83741dd0&minSDK=19&size=82068535&shortMd5=7b1e946b9e870060ac55dcf4a801ae51&crc32=2160772399&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDg4MjU0OWBkS2V5PTQyOGM2NjFhZGZkYWUzZDQwZWM2ZTdmMDExMzJlNmU3YGlLZXk9YTMxYzgzYmNhZTAxZGM5NjRkY2QyODgyNDMxODBmMTI&did=799cc26d2f80f2f00f0b2d699ac0a78a"}, {"name": "好看视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/9/106_241daaa011a8bf0d813e9876f1e1fa06.apk?yingid=wdj_client&packageid=800770962&md5=11705883386792358bb8a1945fe4cde9&minSDK=16&size=16598650&shortMd5=282911936faa91acc53c3b5b5ea94134&crc32=2234412824&did=4adb7523acc934952bce129e62f3b9eb"}, {"name": "搜狐视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/8/106_77789292769125e7cff8846381775bc2.apk?yingid=wdj_client&packageid=600782871&md5=27820ec92d52670fa341da2e3e7ab47d&minSDK=14&size=45555027&shortMd5=9bef55c147c3f6aad5e41e36a3eeed69&crc32=1866491593&did=d1f6be34ec3c6605e8ff01b3f985af5d"}, {"name": "虾米音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/5/110_31b2a2ce84051601d99d3f21d834588e.apk?yingid=wdj_client&packageid=200773689&md5=252d0bd92f9af608aeca83b734b76e91&minSDK=19&size=53840818&shortMd5=3004b1007b2e65383e757658c4fb1b48&crc32=2843508152&did=3d47fc843a9bbd21929bbf83c4df8089"}, {"name": "咪咕音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/3/106_b05aa2ebb28492c6a1782a3b4e4701d3.apk?yingid=wdj_client&packageid=400763156&md5=81024a1c78693fafd796925fbc507c78&minSDK=16&size=96419683&shortMd5=95914fbd9f9a22462322400251e7b03f&crc32=593034464&did=b8533b9d0db7b22fac58c7125df44ced"}, {"name": "暴风影音", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/2/106_79536a84d71004b3bfd03ed7c117ea29.apk?yingid=wdj_client&packageid=200768696&md5=551274172f6671f30b28a4ba41390442&minSDK=14&size=30183973&shortMd5=66a843b7c8cefc484cdacdee73c2c8e2&crc32=3960057059&did=ee6fece96f65561cc72722271706361e"}, {"name": "腾讯视频HD", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/6/110_d3f8fd88e843b5606c016b455ed5d785.apk?yingid=wdj_client&packageid=100495550&md5=6edf8d126ce143a56452ec243004fe92&minSDK=11&size=27865357&shortMd5=9287118dcdcc27ca0e6a2c67217134f1&crc32=2839298837&did=7af5fa64e55062d21c65261ac8862480"}, {"name": "花椒直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/2/106_e50b4dd07f2c0b6b46723753ddda1fe4.apk?yingid=wdj_client&packageid=100495847&md5=bd50e0d4c91576695a6706eb31f560ae&minSDK=15&size=49530844&shortMd5=a6e51d0fb0de97779fea2fd7152cface&crc32=1511303934&did=85e06667efad89897a8c9231ea03fc72"}, {"name": "爱奇艺极速版", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/26/8/2_cfe41988168ce20a1701190f3fdedaaf.apk?yingid=wdj_client&packageid=600780469&md5=b7daa64acc524f08bb7d2ec41afc27f9&minSDK=14&size=31911877&shortMd5=3fd865f74df34d8c98b9631b82be7b8c&crc32=584249779&did=38316ffb03dd425f04e641c21e888d8a"}, {"name": "芒果TV", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/4/1_f26ee1e866475b62042efad895dbcf06.apk?yingid=wdj_client&packageid=800772025&md5=df8688eeb453855fb856439310926adb&minSDK=19&size=58720555&shortMd5=a19159226a6215fc8c5a31263fcd29a2&crc32=4092232076&did=5dee83727b163b17d1bc0186db5b5076"}, {"name": "水多直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/28/8/110_f458c2df0bdddbe247579bc2051b536d.apk?yingid=wdj_client&packageid=600750532&md5=6bbe297cbf81dfd77eef1441192c6ced&minSDK=18&size=44406977&shortMd5=fb9738be61fbe2dd0adc631fd9d497bf&crc32=2634105315&did=e73e8674a9f54a56726f68d4e750aa5d"}, {"name": "手机电视直播大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/1/2_a5a92fbbfb7f771da61350414941ab8c.apk?yingid=wdj_client&packageid=800771040&md5=a9a5551e5d79a5daec625cd91186f52e&minSDK=16&size=82291746&shortMd5=25ca729c67011cc6374850339152ab27&crc32=890492461&did=3e9478845b0525c8d80c9810c610ba92"}, {"name": "映客", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/04/10/106_1633f57d70536eefd9135ecdb54cb091.apk?yingid=wdj_client&packageid=200769941&md5=cbbe0f190fb737c8df7a5ccaf5adbf3a&minSDK=16&size=66372917&shortMd5=10db14bb79480a1460ed7aa94663201c&crc32=3703232065&did=a08ad03d9736de439dd0785c3049791a"}, {"name": "影视大全纯净版", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/10/110_75f7812df7db9faff3280dc54faec1d2.apk?yingid=wdj_client&packageid=500507460&md5=303379cdfa95269c368050bced8ca822&minSDK=16&size=21032461&shortMd5=d5fe08dfc823b5ad02cf64ce9cfc9888&crc32=2960491626&did=e053d1a8abe1da2197a6bb22586ef4fc"}, {"name": "波波视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/4/110_f49e5ebbb387ba0b0d0b3ecc6c76bbd1.apk?yingid=wdj_client&packageid=700496826&md5=e549794a979b5bfb752a673ebfb9741f&minSDK=14&size=12644213&shortMd5=2d87151370c62a0d36f00f4c5c5e2638&crc32=2224787055&did=d602b3356b043f25a66f167796aef962"}, {"name": "南瓜影视大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/19/4/2_d128c6fbbb48c5070bbaae75efa29a75.apk?yingid=wdj_client&packageid=400756167&md5=66dd54af3e0405b827ffb7bb32d2f6db&minSDK=17&size=16723767&shortMd5=db627458b31854dfe00588e2751e4e15&crc32=3351723181&did=9de9883cfb6a6220f1aebabd1ca97e3b"}, {"name": "丁香直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/19/10/110_7a541522aa751398bde649ad43497d06.apk?yingid=wdj_client&packageid=300483839&md5=464d1e5316e02614c957855626203fb0&minSDK=16&size=49473553&shortMd5=98a05a9ca7f6caf929dc09e49b9584d3&crc32=2454160666&did=52a2accdd8182cc325f1860195ad004a"}, {"name": "声音放大器", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/31/2/2_52384b12e4d89f68ce00031e38073f96.apk?yingid=wdj_client&packageid=600766326&md5=0b23255ae5c1ba440e8cb586329a6e03&minSDK=16&size=606846&shortMd5=03df8cb9bc5012a991b1af15b805d639&crc32=1167236589&did=4658dd1bbdab317deb30ca7cdbbd242c"}, {"name": "Ai Miharu Collection v1", "downloadUrl": "https://android-apps.pp.cn/fs08/2016/05/02/11/102_154060ecf2d913dc8a619874726dc972.apk?yingid=wdj_client&packageid=600237160&md5=8fc440df820321d06c6505ae0b02a969&minSDK=7&size=6465185&shortMd5=bf27d1d2df4ea1bd8c052072befae90d&crc32=136326814&did=2ffbfe204724a3d07171a865fa8c3743"}, {"name": "DJ多多", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/0/106_e2e21d2c7b9de7f709e7249a7fac9340.apk?yingid=wdj_client&packageid=600787122&md5=ade717dde563c7dd121e1bb9e35bfbf3&minSDK=14&size=20351216&shortMd5=09b0e70f0dab1cd657117cd5cc3371fc&crc32=2740010012&did=f60955b0c50f5445d38b4ad3716d819f"}, {"name": "皮皮虾", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/7/110_b886a60a001a028f492a5b1ece2ced6b.apk?yingid=wdj_client&packageid=200772614&md5=ef39267205fccb30bb631db32b3757a9&minSDK=19&size=26299886&shortMd5=88f98f9f2829d7719e275b54ac153b5c&crc32=4106442308&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMTEwNjE0MWBkS2V5PWQ0ZmEzYWVlNThjZGUxZDM2ZjVmMzQ1YTk1Y2Q2MmFlYGlLZXk9M2EwMGViMDNhMzBjM2I1MzYwODIyOGM1YWYwNGMzNDI&did=0d5b5f304cf36293e974135f7d06b5f8"}, {"name": "斗鱼直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/9/106_f6f9e73bafcb0aeaf1363aa655ece92b.apk?yingid=wdj_client&packageid=200773571&md5=44e8e6f56029bcd0bcc154e84c1dd54c&minSDK=18&size=51299123&shortMd5=1750c96fd84653da8cec81a789525f5f&crc32=3546416557&did=9cd6b578086a3485fe85b37e4378892b"}, {"name": "全民K诗", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/28/1/110_1faf25e393f16a592f6d345c664a0882.apk?yingid=wdj_client&packageid=400759090&md5=a0c517a0ae6ac7d5e0e2336d88f83fd5&minSDK=18&size=61336703&shortMd5=064ccdd1ad3304acd35612771984639d&crc32=824874757&did=fa5e6cc09ab82f43173f68a8c79334e1"}, {"name": "免费影视", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/8/2_998f7332c292dcde6429ce467f981d46.apk?yingid=wdj_client&packageid=700497938&md5=d6ca5c55f1529dba17bbfe76f07ddf87&minSDK=14&size=31177805&shortMd5=e588bc773845d2bd2e29a1bdc045d5e2&crc32=52353503&did=791165d9b952123b987a5262de6e22ad"}, {"name": "土豆视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/2/106_b98797cc8df40b68c056872e1ecb5227.apk?yingid=wdj_client&packageid=400764070&md5=8b19925995960b990ba646078b8c2e70&minSDK=16&size=26879020&shortMd5=e81437ecebc52a5e301234f38aaa266c&crc32=169358243&did=4e8891eb77b55ac0a6ec5430597a4718"}, {"name": "手机电视", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/1/2_0d571e018edf06b7590b7e60305a8e9d.apk?yingid=wdj_client&packageid=200772498&md5=89a2e35dc15ba3316b77588718f04fae&minSDK=17&size=40085522&shortMd5=f62f51100c35c45fd349140cbdb9d564&crc32=434681779&did=2e570d3c461d0032d1a3c49046607e35"}, {"name": "手机来电铃声", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/02/07/10/110_0e1167215cc387b5052ee8f5790193cb.apk?yingid=wdj_client&packageid=700364556&md5=686cbb3de5cfc670049b7f241cfdee6c&minSDK=16&size=6379662&shortMd5=b51aaaea64ca595e1c2c0f34b2dd168b&crc32=731803122&did=8585763b6d3fd8851e51981b36c1b9d5"}, {"name": "一直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/5/106_dd4332c4a78f1bd10646675a881fc32f.apk?yingid=wdj_client&packageid=300512956&md5=445c92aafb68f3b66542b9d7c4c646ca&minSDK=14&size=75115830&shortMd5=860aae318792736f5e6b4dbd4fc754ed&crc32=4245992982&did=31ebadaf918e5a1a53182d2d1b5ff9f8"}, {"name": "手机收音机", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/07/26/2/2_5b060cff32b1ca996816112d944a7372.apk?yingid=wdj_client&packageid=600697929&md5=d2b9774fdaefbc497a70dd009462f244&minSDK=14&size=7234464&shortMd5=74e2da884ddcdc40c459dbd898a6aaca&crc32=1544221031&did=1f72495207fc368ea82e8f0381d4daa1"}, {"name": "K歌", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/18/5/106_b8aa2d597d881b6575c29ff3b77bfc29.apk?yingid=wdj_client&packageid=500501070&md5=88d1c48b4b53d7ce1b84f75f21e11713&minSDK=16&size=74362114&shortMd5=0aae0ede7c42836b95f4f2b52c63da35&crc32=2832896161&did=a64cd14f51330db88e506d1f178fa6b2"}, {"name": "秀来电", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/13/7/106_dd2a5f75a6f6c64284bdf91e2409a5c2.apk?yingid=wdj_client&packageid=300512223&md5=e7ff5a0d8dd20a58d4fdb3b5fa8213eb&minSDK=14&size=19089542&shortMd5=94462926a692f43f65ce3bdfeacbdec1&crc32=1191734800&did=16c7251b894e722f8163aeff990d2a4a"}, {"name": "PP体育", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/6/110_813776975a278336120c54ea3f6f2bf8.apk?yingid=wdj_client&packageid=400760426&md5=587f95be6deda61f568664e539700df0&minSDK=16&size=56660559&shortMd5=d0b9cc89a3322e63b4ee193a0b36a24d&crc32=2664196100&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDk2MjkzMWBkS2V5PWI0OTk0NjAxMWIyOTE5Mzc4N2EwNGQzMjdkYmY3NzRmYGlLZXk9OWM2NWIzZTFkNTYyOGM5NDI3YzE2YTliMjk4ZjAxZmY&did=eebc275a67b620335f66919a56c616b5"}, {"name": "深夜直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/18/9/110_2303e8240f6504c75395c3915b5b6e1a.apk?yingid=wdj_client&packageid=200748728&md5=9754b0965851106fe7b293e170f4a725&minSDK=17&size=48488940&shortMd5=e1a1351b3f03898aff7d79bc425b29b1&crc32=2611699652&did=8554e3687be472d428a80c5407f4c05e"}, {"name": "央视影音", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/2/2_5f16fdf08e186eb9a74b72056619bb7e.apk?yingid=wdj_client&packageid=800767317&md5=26eaa884c650b80b5680fc99470017ef&minSDK=19&size=55541934&shortMd5=26b45e0d502028ca9772df34bf7c86aa&crc32=544807640&did=9bd9c6fc8c9777133396ba6fee5e7966"}, {"name": "乐视视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/29/4/106_4640aacaf655f6830ca8d244bbe42467.apk?yingid=wdj_client&packageid=200768130&md5=1df0f81447870de70cc478ede1dae1e9&minSDK=16&size=73107239&shortMd5=790b16e277e9929c072eae60ca0c7f82&crc32=3886041515&did=6fef7d8e570780c00a35fb6f1e814d4f"}, {"name": "万能影视", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/18/2/106_f108e6c13507cabdd4207c6e875109d1.apk?yingid=wdj_client&packageid=400755514&md5=3968f12dbc4af6e625a6794598cf15c2&minSDK=15&size=14147279&shortMd5=1d12e23038f30b78d00b59981a99d547&crc32=3113285105&did=709482ee57170786991fd700aad75a3e"}, {"name": "91全能播放器", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/29/4/2_c99799aab5e54f060b457b397dadfc36.apk?yingid=wdj_client&packageid=700494328&md5=6446d044c4040977cb512576b06764c7&minSDK=19&size=18381005&shortMd5=f995b7a1b9337c0c8baf32b3c3977832&crc32=205143837&did=6806b5c1ff7a157cc2ee67623c03e909"}, {"name": "快手看片", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/22/7/106_95ddbccf2216b84f3b4decfe3fce642c.apk?yingid=wdj_client&packageid=400757461&md5=b98c2b75d29b238d33a48bd2fbaacfa1&minSDK=14&size=41457198&shortMd5=db1ed61544354d241e397ef457bad57d&crc32=695772651&did=bd30eda46d7b8e65c27286b94d18dfae"}, {"name": "速播影视", "downloadUrl": "https://android-apps.pp.cn/fs01/2015/01/31/2/112_867184b3b5fc290ea919d85762a9dfd9.apk?yingid=wdj_client&packageid=200044936&md5=bde360cd086e60ce11093d5cbb31c414&minSDK=4&size=1486467&shortMd5=8b7ac981a6582ce3bbc301a14a458ef7&crc32=1145009497&did=fe643eee9618d79ab54b876d26c3070d"}, {"name": "黄瓜视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/10/110_a4defd39bbf4b22ea564eb519ede5b1a.apk?yingid=wdj_client&packageid=500504725&md5=160f1612bbcb229c96bfb73ae25c14e0&minSDK=14&size=50782521&shortMd5=81c1eef91ed8870481bcb263d13400df&crc32=106415503&did=3e29da197ebd9cb93cdb40bd6e214b94"}, {"name": "虎牙直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/3/110_4d89cf946f2428b498b2462ff5dd9319.apk?yingid=wdj_client&packageid=600785125&md5=c79bc5ea1af130fc4dd7cc48ece709a0&minSDK=19&size=54258249&shortMd5=e4dc3e2147876be888383664efc9bd6b&crc32=2495010825&did=ff244e3b6e2be53bd5ddffd6b9c59b16"}, {"name": "石榴直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/5/106_121dccfac5f04efef905f24591e23253.apk?yingid=wdj_client&packageid=200770942&md5=8500e74d5d7bba34c2a8350156493ce9&minSDK=16&size=73274666&shortMd5=dabf229fdf6d24d7343378dca33fdf3d&crc32=2479195394&did=d292e60db8dd84a1547ed70c6a3a0bec"}, {"name": "铃音多多", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/13/6/110_cc1d0d1d6b4d9c2e1629f8db1765cf12.apk?yingid=wdj_client&packageid=500499810&md5=aa886bfb8191385b4de7e99c96795ab1&minSDK=16&size=16453092&shortMd5=d469865afd672046895be73fd3c27582&crc32=1714271091&did=69cf6acbd8ffc600e3b41c4542a14b07"}, {"name": "快猫直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/23/1/110_0e45bc1353f7b5ac68b3dc1a9ff88097.apk?yingid=wdj_client&packageid=600763114&md5=d9dd9ceddda0752b4c535910fc030f65&minSDK=14&size=44676932&shortMd5=731eec0724548d74495a84ced0291cda&crc32=1076051034&did=f54aeb117e3cc805038d0f91f896f209"}, {"name": "番茄直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/2/110_95ba2679fd83e7426f5f28eb7d927875.apk?yingid=wdj_client&packageid=300510215&md5=1b12541c3716c7be103dbf9d00d606a0&minSDK=17&size=52093867&shortMd5=e0b2e275d9fc8a686ca358eaf9d53cc6&crc32=3264940764&did=c4046b999c07984d043acce213763be6"}, {"name": "企鹅FM", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/0/106_1d4abe5ff3854a4a4eb4b99907c22dfa.apk?yingid=wdj_client&packageid=400761830&md5=416a3927eefab2417b27ca3e472aaca6&minSDK=16&size=19582653&shortMd5=3b707e887131e8db77c3013e9bd45e47&crc32=834681544&did=9c8203c906f9624a706b7f20ecc6d798"}, {"name": "叉烧直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/8/110_36a5dab976a6e9f1e86339c6296e67c4.apk?yingid=wdj_client&packageid=200770875&md5=a3888c520a419df68fd748033e76dcca&minSDK=16&size=60219726&shortMd5=e7d0225385b3256f162c5f45f14698cc&crc32=36912316&did=9bdb528afdcac0a9172b055b201b1efa"}, {"name": "美女视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/07/11/110_8106663dff0d2f1147cf3277dc03c263.apk?yingid=wdj_client&packageid=300488173&md5=0729fc6d890434a6e8c407d66b4e64b0&minSDK=17&size=9725688&shortMd5=ff090e959d7bb96e05f7e30b0ac706d2&crc32=1275565021&did=84dcc2ae66e2fb527ff03c92e7b9def0"}, {"name": "风行视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/0/110_c371b1b05febb512601b904f637df749.apk?yingid=wdj_client&packageid=200773467&md5=ed8d08d93178480e51c3e45d6e57822f&minSDK=16&size=25267876&shortMd5=09e94c2a5f511baf552640b2b086f594&crc32=2619265109&did=d78115f709922a0545452f1fd5a8ae53"}, {"name": "香蕉直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/07/10/110_11ee27e8942294766fa6528e425a00c6.apk?yingid=wdj_client&packageid=700459341&md5=7f7c7f4b444a3cae018d3a5218f5fb9f&minSDK=16&size=61037854&shortMd5=4cbae5624f684db53d34f9b431601fa6&crc32=2147854063&did=8c9f5c9ef851d19d8efc099030797764"}, {"name": "猫咪视频直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/19/6/110_cdadee7fef16e4474a92ca8bfd87bf8d.apk?yingid=wdj_client&packageid=600761889&md5=4731ccc199a9cb8ae1dc9f9b1279dd79&minSDK=19&size=49988649&shortMd5=d72f0cc19001afa3496ff1bd1b480201&crc32=76321186&did=9538cf57c639db9da468567d3fad4355"}, {"name": "手机收音机", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/02/4/110_7e4ca03f74dd05f243530549c86edb78.apk?yingid=wdj_client&packageid=100452693&md5=1d6298584fd9b77848c9165d87abac5b&minSDK=19&size=4409099&shortMd5=b800a6a8d65f467b10c53cc16b9ac66d&crc32=2733146526&did=1876dc71811c4ae86212eb8bcc03bf88"}, {"name": "免费音乐", "downloadUrl": "https://android-apps.pp.cn/fs07/2016/04/06/7/102_432230796c29a68a9e04e312b558a8a4.apk?yingid=wdj_client&packageid=1197585&md5=537524b727b0a4c82f1d7fca2df851d7&minSDK=8&size=963110&shortMd5=743521d0af2a35c4e41257404f22ad13&crc32=196967642&did=1bc767b7707bec56deb85b8947312734"}, {"name": "电视家", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/07/24/4/1_f3312a958dd6867ea056d4da39e87933.apk?yingid=wdj_client&packageid=100427136&md5=280329f85378cdaf5e80ea962f77fe47&minSDK=15&size=17508246&shortMd5=278c252d869f8135156797bd0efd55fd&crc32=3302931471&did=a53705918cc7411f99411ee1a9980efa"}, {"name": "YY", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/10/106_42222c77469864ecff81712f1973c6a3.apk?yingid=wdj_client&packageid=600782210&md5=3160cbd3b4cd90faf34aa85423517618&minSDK=14&size=61380812&shortMd5=1b5bb44df2711f22ffbc252f0f6b5f1f&crc32=4135490363&did=6e098685c800d46bb70b2b4a50d3f262"}, {"name": "爱音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/21/11/2_1e16fa5560dd6b65507459a83a7b9c74.apk?yingid=wdj_client&packageid=800735682&md5=67904b3d8c7aef50083ee0f95d5a3d3f&minSDK=15&size=43921391&shortMd5=5b19ec0ebfec9cc32a9bed53e356f3e1&crc32=3661009221&did=30a4cd5b08a03e12184ab4a13d62e8ad"}, {"name": "千千音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/21/9/2_607ae450c225033c4fab0d2e2c80531d.apk?yingid=wdj_client&packageid=400756913&md5=078a6af9f00b6a2f97805133ad7dc62f&minSDK=16&size=27438187&shortMd5=b72fac5e11c30b0f8e47741b3e2bf624&crc32=2819363784&did=c7b18256d8f382450ecf8995face2be2"}, {"name": "百度影视大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/03/19/4/110_108445e0e840e06f2c5c09334d9d8e52.apk?yingid=wdj_client&packageid=600604626&md5=9edd1a6146f04c1e55d8285170b2a51d&minSDK=14&size=55467689&shortMd5=c7b6e7b94784b3b96c3b10b1f54e64d8&crc32=1008122&did=3bc3ed616f9c1e3f4278b667fffcae37"}, {"name": "1905电影网", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/8/2_b926a65c6e10ac34bc304f083bfe48c1.apk?yingid=wdj_client&packageid=600784041&md5=016a2651583e8cd0f3e4607cf0c89f9d&minSDK=16&size=48289779&shortMd5=44610c2efa4d944c2f4eca21e15886da&crc32=918658425&did=092ae16bf0cdfbc45a02ff4edf544cad"}, {"name": "妖娆直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/02/13/7/110_5b7b488f2a0f59e3cf9825b4d628e9d5.apk?yingid=wdj_client&packageid=600768302&md5=18884f8db8ee055eb0d55a77dec117f1&minSDK=16&size=14753812&shortMd5=6ef2ad9eb4e8b11915b9bd943b1b27a6&crc32=2303380203&did=18ca396788d7ba5d33ba38a55c22a343"}, {"name": "手机万能播放器", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/05/1/106_87e919cbf7027e6b82f6d7f99442cacc.apk?yingid=wdj_client&packageid=200718644&md5=e257d350759440ab3d97eee9dac1d7ae&minSDK=19&size=23081674&shortMd5=6ab3e16f58606cae6324052837d66779&crc32=1199967739&did=315c279a51ecff1fb560cbd5576e59e3"}, {"name": "西瓜影音", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/06/25/0/110_7899ddbb78145c75bdce32c3e8958855.apk?yingid=wdj_client&packageid=700427521&md5=002149c059d05fa70aa4882ebc13817c&minSDK=14&size=16338248&shortMd5=de4bcfaff6cce08e2ba4b35c914515d5&crc32=2067163552&did=bf0237540dce6f51e6ded2877b507f71"}, {"name": "火山极速版", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/11/8/110_52b04308125202916dccbd5badb49118.apk?yingid=wdj_client&packageid=100487694&md5=11767de372feaa1bac68f96b82782167&minSDK=14&size=11963669&shortMd5=1ee78938a301825505d7abf10fe37cae&crc32=4162398535&did=432f943d7b5b89dde0bb25a63bc32939"}, {"name": "免费手机铃声大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/0/2_b3f2d89e95114511bc4406a03660e25f.apk?yingid=wdj_client&packageid=600782996&md5=b93396e720205bf2fce181e8234e87c2&minSDK=17&size=5727936&shortMd5=8023bbf55182db33d269d02b5b080bde&crc32=3834569155&did=5526e0b18b1ec42a8b93636923c73381"}, {"name": "FM收音机广播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/7/106_6fc4049fefa3e9e762068a99534f1e0d.apk?yingid=wdj_client&packageid=700497913&md5=fdd0a829f71338c86848e0c697338b14&minSDK=16&size=11027007&shortMd5=ae15c616aa81a47420d0c0fe877ba7cf&crc32=1111815343&did=e60b90d876e4393789dae4c543a93df1"}, {"name": "人人视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/0/106_9c57177a0067cc0dbb33fc32becb684b.apk?yingid=wdj_client&packageid=200771665&md5=8bc62eea353ab26d7340aeab1992e39f&minSDK=18&size=48930605&shortMd5=4d435434167e6330a55c3a25e6cf562d&crc32=2373133582&did=55c3795c338b81ba26d126a7e77ab4fe"}, {"name": "酷狗唱唱", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/18/11/110_c74c5b37a807de4a201c895709f1eea8.apk?yingid=wdj_client&packageid=300506441&md5=e7dea3a9ecb819f4533a154e439dd117&minSDK=16&size=66027102&shortMd5=d3d402e10f8f8a0537608b64333b7475&crc32=897849062&did=0871b3dee17f85fafb53332a9c08c1a4"}, {"name": "小宝贝直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/3/110_84249f01321c59e910d091ae58f81309.apk?yingid=wdj_client&packageid=100493459&md5=2a3725c3cf754d4d36e4f0a0f43b5cce&minSDK=17&size=55179240&shortMd5=9f80d68764247d7e585af46391170fb4&crc32=3164290307&did=a1620e521d1d1060258af28f5c3028e6"}, {"name": "快手看片神器", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/19/5/2_ee226a898d60a742d874c556d3e676ed.apk?yingid=wdj_client&packageid=400756182&md5=3e95005fa44b1e9feb1dafc75eb94493&minSDK=14&size=39842940&shortMd5=db1ed61544354d241e397ef457bad57d&crc32=3571967670&did=56b2fa90a63118e1155c9e9d2e4939e5"}, {"name": "直播吧", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/28/6/2_a1eace8c8eeecee304bf104854333064.apk?yingid=wdj_client&packageid=600780873&md5=e1241a1265f4d8201eabc40c90659f30&minSDK=16&size=63074626&shortMd5=c9a0ba03cd697ac9269d123fa8de2312&crc32=4259591190&did=6e48fabe64c4e5327f1db51b7c2f0e27"}, {"name": "韩剧大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/1/110_147e6be97cf552ad5236cd6ad16deed7.apk?yingid=wdj_client&packageid=100496574&md5=06881179db9011d84fb2e12130527920&minSDK=16&size=21155228&shortMd5=0fb986f1e44c84d4836b7e0edd0ad778&crc32=1479527474&did=50db341b8e7197848cb380bae854daae"}, {"name": "先锋影音", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/12/7/110_6757d6eb926c8fdc45e270f736635b96.apk?yingid=wdj_client&packageid=500467245&md5=5413ed902b03d0fa07fcb6f5d9dd7169&minSDK=14&size=15079525&shortMd5=ab8c3ddaa8a7ecee273893a1440a78d6&crc32=106376903&did=46b5a19eb1ed05878a4a53c9b2413342"}, {"name": "辣舞直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/02/21/9/110_865b083a7b0034675239f0511f2effad.apk?yingid=wdj_client&packageid=500495499&md5=fb8102a235f33eadf6844b8162eb3032&minSDK=16&size=30467312&shortMd5=ac5799087461fd667ca696cd7c02cb8d&crc32=1609181153&did=2aafd38cd90ce197089ce68a8a44e108"}, {"name": "VR在线", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/16/6/110_0ddc11e8c9b5d1897be8c49902b98cbd.apk?yingid=wdj_client&packageid=800747575&md5=b91f76d097c5eb586617374f44e432a8&minSDK=19&size=13083984&shortMd5=e84839e6eaad5224bc6ab5652f768f2b&crc32=3061424074&did=f60a68eb2fab7e234229a52cbd433735"}, {"name": "迅雷影音(云播)", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/22/11/2_7b5ed7a64eee68227d0035853052d8b4.apk?yingid=wdj_client&packageid=800725906&md5=b473574198a64c77b2cb6918f2339f0e&minSDK=16&size=32955895&shortMd5=345804977cac6565069786f828799175&crc32=1892455956&did=0c6bfc2cbffda8889be52bf334a30a7c"}, {"name": "手机铃声大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/5/2_9c95ca6e46848e96c81f019f03eb68f3.apk?yingid=wdj_client&packageid=200771770&md5=9181a2debdcee4398e334d1c9da04438&minSDK=10&size=7889575&shortMd5=b1de7105fefe5b9281f8bf41d00f2625&crc32=2014357816&did=6de69f747bbbff8e49e236bd42fd73ff"}, {"name": "多米音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/10/8/106_c110a5b12c6d04030c7c65474de853c0.apk?yingid=wdj_client&packageid=400735136&md5=e91f5fab9fbac93b4cdaff7eba546ff1&minSDK=9&size=13939229&shortMd5=00525f2911744e9541c027352625368a&crc32=3840022123&did=52387f6f6046db6330830bd026fbb7ef"}, {"name": "大秀直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/3/2_77f0efa6c4fc180baf1135f33ec621fe.apk?yingid=wdj_client&packageid=100492718&md5=a3b5118169c7d8a12ae21daf5654bb75&minSDK=16&size=48998685&shortMd5=52495f7cd08926300563760432fd412d&crc32=3520959714&did=19a5d7910d0be69e93ce029669f21d7e"}, {"name": "免费小说听书大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/10/23/6/110_d1570a033cc47267f1a9f6c55a6fed03.apk?yingid=wdj_client&packageid=700455555&md5=eb595ad4332bacb6c9f0884c25db7c8e&minSDK=11&size=1991742&shortMd5=f72c857306f5b2ef28791dbe1d390e6c&crc32=2808331721&did=2415a82560ab8a0e724d36ac7e465878"}, {"name": "华为音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/9/2_86e8e7c20de5778caa02f867870e367c.apk?yingid=wdj_client&packageid=400762195&md5=8c6da8fa95da07cdb138753727ac2917&minSDK=18&size=37416250&shortMd5=80fa8b5f0d8c860458b8228bfbcd8a57&crc32=1442883069&did=901873b7e7d4b6f0fd2bdae4e4148be2"}, {"name": "蛙趣视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/06/05/4/2_54a55721a5609d8aca7b6b30e3a22f77.apk?yingid=wdj_client&packageid=500427163&md5=837a90a2550cf05427418fe81ba107a2&minSDK=14&size=33297796&shortMd5=a44f6a509ca6899711692882d4c5b314&crc32=3382722347&did=0785b667e73a58e9882468e3cf865b4a"}, {"name": "免费FM电台收音机", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/08/27/2/2_06cc698fda941894c57ec3cd58026917.apk?yingid=wdj_client&packageid=200695104&md5=af702a792e84e2ac2d78636c245ebf09&minSDK=8&size=10524457&shortMd5=6677270c07058d8742e7966207d26595&crc32=2784997106&did=bc5c591714e683478ff71bdba1d9b325"}, {"name": "DiLiDiLi", "downloadUrl": "https://android-apps.pp.cn/fs08/2016/11/14/2/102_97a6584f8e58c89e98dcca702972ccd3.apk?yingid=wdj_client&packageid=400406857&md5=dbbce903316bb1641b99a6d0d4dc3f13&minSDK=14&size=4482079&shortMd5=6c751ed97c4a5a4ee40a84c3bd89707e&crc32=3186152836&did=e69c7689edf152648bce6ca6991ca072"}]
+[
+  {
+    "name": "58同城",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/4/106_3c26d7919b4567165c7a4fd5d1a58d7c.apk?yingid=wdj_client&packageid=200772299&md5=ca3f66b7733b4a76adde79cd95e28e6a&minSDK=19&size=62099344&shortMd5=684886526ff8e8e962491e9aa65ab53c&crc32=2878322266&did=ed2f17ba350ac044ea92b2ebd277e5d2",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "土巴兔装修",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/4/110_cb75c20529dfbdd00fcd4f2e0e891568.apk?yingid=wdj_client&packageid=300512398&md5=ec8ec1437b8680477a76d7f55360b655&minSDK=17&size=36147946&shortMd5=7a61a7ecb2cb39474fd01bc80cba5a4f&crc32=196702573&did=7ffa916ad84113d90998d4f4ac80fdf2",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "汽车之家",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/0/106_411748d5de8dbd87122ccf6457d75371.apk?yingid=wdj_client&packageid=600784210&md5=ba4859919b69ed78417453a5e1ca1320&minSDK=16&size=60826083&shortMd5=784d9bb0c2cd34040820553a7edba434&crc32=1321675570&did=917667b00c60737e8ecda6ab204fefb6",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "九妖游戏",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/26/11/110_4eb151367ea54ed2442dd30c8ae312a3.apk?yingid=wdj_client&packageid=300508369&md5=501c754ef1073c043c51f69ef2abad7b&minSDK=17&size=9775014&shortMd5=f0684f51735e2788014004111f181a03&crc32=2923510016&did=28ef87420b700c6706fbe183555c9c9a",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "下厨房",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/2/2_66a84b7641d7f97b563948ad327b700a.apk?yingid=wdj_client&packageid=800770768&md5=5b746175d6757a20bc9215d5d0bf813e&minSDK=16&size=31551702&shortMd5=6dc88df9d10d1b0c2502a02af8c10200&crc32=3953007371&did=a4a8751489f89fe8945a3e02bad8244a",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "安居客",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/0/106_1b2d1868629b4d45185e85353a50d56d.apk?yingid=wdj_client&packageid=200770909&md5=da79b851f7fe3f518e08e0747ea3e42d&minSDK=19&size=39703856&shortMd5=f7f52ae8b32cc3198461105cbef32442&crc32=414641565&did=fc9e998fdefe1f3fedae7709c524de7f",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "美团外卖",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/5/106_83737769bf7c9d3f4d8185f4b31ebb21.apk?yingid=wdj_client&packageid=800770185&md5=55fb7cfba3e567896976208f873d9ade&minSDK=19&size=51740308&shortMd5=9a1f27acbb3f305baa55c79dd0ec8967&crc32=2204930569&did=ff304c1e206c641c22c6fbead56536fc",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "饿了么",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/6/110_2bac73e780071e4459a71137f598e8c7.apk?yingid=wdj_client&packageid=800771884&md5=88ba0ec922824585ca247b4a81546dc8&minSDK=14&size=41146326&shortMd5=ed80e02148813e1e838e3fb45164aa09&crc32=3636680788&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDA0MDkyOWBkS2V5PWZhODJmMjYyOGNhMWZmNzI4N2VmN2EzZWVmNTc2NDI4YGlLZXk9ODQ2Njc1YjJhMWM3MjBmODgyZDk3NzY5YjYyM2ZiNDM&did=1194e53d7756b4044466a56514df0d73",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "懂车帝",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/2/110_98cde4d53e054739e5fafedfa26e2562.apk?yingid=wdj_client&packageid=600785923&md5=c6e5b7a253a481dd47a0b520b02163fa&minSDK=16&size=34606365&shortMd5=92a31b885d2c4dec7e93a8ecabf14c2b&crc32=674135876&did=28be2a8c9874ebcb568bf65bf4412131",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "汽车报价大全",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/3/110_c7f457bde2ed3dc780d97ccf051df2fe.apk?yingid=wdj_client&packageid=200770271&md5=cfce5117ef6b3cdfb14293f7e69ff017&minSDK=16&size=70868055&shortMd5=9b89b25cf5698bd12e067dca0ca45d07&crc32=3106852121&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDAzMzI3OWBkS2V5PWNlN2U5NzQyY2M5ZTQxNDJkM2NlMGU0YzMyMmRhNWZlYGlLZXk9NTVhMTNhZmI5NTQ0NWY5Zjk5ZTllMjkwMWIxNjQwZTE&did=6b261fe897decb5d9282e546f847c3bf",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "中华万年历",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/1/106_5b7f21c4343a1b101c85deafa5444aaa.apk?yingid=wdj_client&packageid=600785104&md5=67fde0270d7811809b4e3ea895471a49&minSDK=14&size=15102163&shortMd5=a15912798fc3eb10d2c79a1a598b5aef&crc32=1988553415&did=1315736bf5f69c4e6753c32b7fad17c2",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "赶集网",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/04/3/2_055314c9b09ad605c0f96eff4a8499eb.apk?yingid=wdj_client&packageid=800759706&md5=2a13b5ad4540f644c5a6be8470cc684b&minSDK=19&size=59279243&shortMd5=4e557cbc013796e9570fb09204d6502f&crc32=1064582534&did=2bba2789d6c64999821f0485265d5613",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "Boss直聘",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/9/1_957fde564a27b98e6e7026373c1701e9.apk?yingid=wdj_client&packageid=700497826&md5=2b1b85448129836df9e517c76b1737f4&minSDK=16&size=45158592&shortMd5=166799c2d9d98fde4636f8ec2406595c&crc32=2883443310&did=5204a0ab07171760c0b8e45982941b53",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "菜谱大全",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/29/3/110_aea4bdc06d5b2a56e6cb607a910f82f7.apk?yingid=wdj_client&packageid=800738281&md5=d9da5a2445c8fff0068b9febedfecd0d&minSDK=16&size=13796122&shortMd5=b75d2d6e2277632f9d1e77e7b294d2dd&crc32=338906059&did=eb43c4a8a16d6d030a0757bd2d1069b2",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "天气预报",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/1/106_305d61fa1d4be583524e858558fd4b6f.apk?yingid=wdj_client&packageid=200770892&md5=e4d4566764ceb19af772eb5c549a7e71&minSDK=11&size=17059911&shortMd5=c1dfcc4308af6d91dae4aba82f9d8e5c&crc32=1146103480&did=2c76562e8f79fb9e2a8a158d2acd8676",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "2345天气王",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/27/2/106_f2be10766a1cce38bfdeca94e0846cca.apk?yingid=wdj_client&packageid=400758471&md5=69b47399c95ffef0ffac958075dd066d&minSDK=14&size=14130706&shortMd5=4844352ae76a40b2cdfcc66f98762c13&crc32=275804086&did=406988591693e542cd5c4c46542c90a3",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "专业变声器",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/25/8/110_c1fdf7ad11d84d5c65d97592566b6b71.apk?yingid=wdj_client&packageid=200766790&md5=0dd56fd1b54a83a8c0e0ea4763d8c2fb&minSDK=19&size=9589617&shortMd5=0ea6856ea5d19b2804adc573ee7ff7a6&crc32=4087554027&did=5804e2e9ad2ac3c7980bb813e60d9981",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "12123",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/10/08/2/110_120be4fc6a38f682df216cdf825add4e.apk?yingid=wdj_client&packageid=400701333&md5=469c3caa54ee82653da5a193f246e972&minSDK=16&size=7065355&shortMd5=fbd2d97826220b5cca350bfde521ad2f&crc32=2794321655&did=9565a26d39b661d6785d7beb0a888567",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "手电筒",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/1/106_272a9262b91c25d534cc647a39174817.apk?yingid=wdj_client&packageid=200773677&md5=28a780e5856c7856a798d73d662e7008&minSDK=15&size=4045034&shortMd5=f25d005c89618074ad40f67f541ea2d3&crc32=1867419074&did=54731e45fbbf5438dc799c4fce2cd54f",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "本地天气预报",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/6/2_8a6bfd64b614cda7da2e8137eaec746d.apk?yingid=wdj_client&packageid=600783018&md5=41a68ba5b3db56dbf1c610013c26469c&minSDK=15&size=6924160&shortMd5=a589e92d9e80bdf22275aa6e1a451ddc&crc32=197443860&did=cfde401ecf558ccbed6c7b7053f5af69",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "货拉拉",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/4/106_d76e23fb0ca4434ad7e2c0255c1cb283.apk?yingid=wdj_client&packageid=200770570&md5=7da8383a81672d98475db6fe846acf3c&minSDK=16&size=35621717&shortMd5=c10c353068886ab2565e5d17c2a67148&crc32=1418075237&did=b6f38708b66117ec3502166ebad0d42d",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "车行易查违章",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/1/106_ce9151d9cc225c982fd481a084a705dd.apk?yingid=wdj_client&packageid=200769360&md5=56570d18a48abf3bea82a1c4cf169cc6&minSDK=14&size=19440308&shortMd5=e2ce33ab16cae9694cd9084b80ca5357&crc32=974405495&did=79dac8f8e7884780b63e8d47a74477ce",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "香哈菜谱",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/1/110_1cf8a019a59e500700d636b9835e0236.apk?yingid=wdj_client&packageid=400764382&md5=9ac5bcd35e58a2ffdb596794d146d77f&minSDK=19&size=27998980&shortMd5=8e0c183b8ccb770e32d97f025622ea8b&crc32=2037063108&did=14707345d90769f0746d3310a8ed6f06",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "现在约",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/06/20/3/110_563c5719c5e7ed385ec914faea362f06.apk?yingid=wdj_client&packageid=700426645&md5=dd549703652ddc1fcce74e1f2d8ce5a8&minSDK=19&size=27056250&shortMd5=4aac89b8e5444d418428f926f0c89f60&crc32=1078765874&did=f45401118d508fad5348cd4d965f70ea",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "3D风水罗盘",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/05/5/106_14af8d005f97bbafe0eeb2a1c36fbed0.apk?yingid=wdj_client&packageid=200760735&md5=3703384df152be0020189df8849bcde8&minSDK=15&size=11013034&shortMd5=82eff148569a9657f3aaade79c7f255e&crc32=873636302&did=5b3ab88ebe0d5e1bf60ed829f30288e2",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "房天下",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/0/106_4543ecff0df0f809ced7269ed90044b2.apk?yingid=wdj_client&packageid=400764339&md5=2110248d5980c15ac4b9e545c5067335&minSDK=17&size=53668124&shortMd5=52bbcf5cf77d9f8279bb0f3f279ffb90&crc32=1369524228&did=4d642de149ab9acc8e78bee789d1f167",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "瓜子二手车",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/0/106_2729ce6deab85b5bd35a3960ad55226c.apk?yingid=wdj_client&packageid=400762160&md5=999aab7adf1b2eef289fbf543ad95939&minSDK=16&size=22800768&shortMd5=8acd5a6694d8fc74b6788653fa113248&crc32=1196651227&did=0fb4b40c70a967713388beb7e4299f7a",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "猫眼",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/25/5/106_adf5bf19c423c54a35872236d241231a.apk?yingid=wdj_client&packageid=600780145&md5=156b0c4f26a69a88daba2cb056118364&minSDK=17&size=22907794&shortMd5=cf631c996067d59aec11b6b09849e513&crc32=938508390&did=21f5bf0d03f51fbf1f3332ea9ef1ca16",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "天气通",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/27/1/2_60a961dab85b030053e454a4b5f5945d.apk?yingid=wdj_client&packageid=600780686&md5=55c9baf12d9482a69a81c0bc8a0e73fb&minSDK=14&size=18349063&shortMd5=2f47277124b89866e10a6e6b0f5072a5&crc32=2401561957&did=e5b9f8cde6b7820f4d0b14d0664f7338",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "4399在线玩",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/30/7/110_ed687153e6ef642a13b9dccd69aa0fc6.apk?yingid=wdj_client&packageid=800728680&md5=07ad82aa6bf24ce3d84d91e7a0731ff9&minSDK=14&size=8776550&shortMd5=06ac612f20e6c35abb4e5dcd59388755&crc32=899629616&did=a143c974f4aa92cd94e5d628ff7d562e",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "豆果美食",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/3/106_bdee363ad331f1e9c87364e556ab653a.apk?yingid=wdj_client&packageid=200773917&md5=dd9824f6de33ab2fcd2a81fe5e1663e0&minSDK=16&size=19990793&shortMd5=90e6900bbd80ea843ce233aada93b077&crc32=3256429672&did=87c57718c34aa38088f148e1846b9122",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "前程无忧51Job",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/14/11/106_313b423fb19417d529c4f6c170abff0d.apk?yingid=wdj_client&packageid=600759751&md5=3f0266fb75b9e63ebbf4ba98dadba6d2&minSDK=21&size=40876707&shortMd5=0f24c133e12803307991119b4aaa0190&crc32=955981678&did=64c289b4786e45b1d4b891a96aac0127",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "掌上兼职",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/4/1_9f0257817945a533856bc1c4ff3b74d0.apk?yingid=wdj_client&packageid=800768911&md5=1beb2b786639b997383568c8b47e1bf9&minSDK=17&size=27920583&shortMd5=38c9093f64b023de9a2723dfe5fa9977&crc32=513946479&did=f9ce943b78b920e4f07b59983896ab20",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "百姓网",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/9/2_02886c32f1d2c322ceac9e1edaa86bf3.apk?yingid=wdj_client&packageid=400764420&md5=0a610cb5d44d5fbc4bad7d83e1798c80&minSDK=18&size=27378068&shortMd5=c10e656ed7ba249ad16f3ed1ffa5681e&crc32=1687450083&did=e4e4ba25aa9d2362db79135e6b81fe82",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "做菜视频",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/18/11/2_8965dfd0667e396532c7bab173a8c7cb.apk?yingid=wdj_client&packageid=800763512&md5=74b8a1788abdb7f20901f29ea195e1bd&minSDK=17&size=11875519&shortMd5=84d35e5b5db1789e8d245f2822fc9343&crc32=3650934650&did=a8a7dc3aba49b298a6dc44e7eb7ac750",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "贝壳找房",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/2/110_8b68cc87bb9192bea0bda329f4138c87.apk?yingid=wdj_client&packageid=500508110&md5=de5a262369aa24b292859fd41832eae1&minSDK=19&size=50009740&shortMd5=785680c6c7dd57b5754c9cf7bc0e54e0&crc32=3643854715&did=b864cc250b9e690730e1dac9055cd0a2",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "多功能助手",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/04/18/4/110_c74d8b36c344690e87fcb262b9334233.apk?yingid=wdj_client&packageid=600613763&md5=a54f65f1fbfcaaaca0229b40df2add0f&minSDK=8&size=5656036&shortMd5=0a308aad741ac4d65a1b508ecb842771&crc32=2893267740&did=ec949b59cb5945f1a5f9f6709f6b205f",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "拉勾招聘",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/0/106_1ae6cb306eebd864421129f287016acc.apk?yingid=wdj_client&packageid=400760291&md5=728415f760518fbe4c0a9099bec9b7d0&minSDK=16&size=33394912&shortMd5=b718d0bf7a5dc15f709dae7b66e9ac10&crc32=47916611&did=8de4e52936d5c759a9f923bab8596180",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "手机万能变声器",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/16/0/110_f96d802deb89d315eb8f7a115f5ef6f3.apk?yingid=wdj_client&packageid=600735770&md5=6d9a6f21602857ce96dfffb5a2f2e704&minSDK=17&size=5109020&shortMd5=4ceca260ce290f8ba15c805c7d8cd288&crc32=2178174512&did=c8d128b1837776a28bd99ae4819f9b5c",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "家常菜谱大全",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/04/8/106_5dacb7be3672a15f2b0c05184c479e18.apk?yingid=wdj_client&packageid=400760893&md5=727ec79919ed7281fe0701c3ed0aa252&minSDK=16&size=11824882&shortMd5=bbf224573f973bdad19a67d85e8d0707&crc32=929167009&did=a0ddb17603da1bdb080cba2c8522de5a",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "手机监控",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/27/2/106_e355061020d09c0145d295502420d9a8.apk?yingid=wdj_client&packageid=800727397&md5=4d28f78a2a6eb55dee33a9674781a331&minSDK=21&size=26903142&shortMd5=7ac1dfa620d883b0babac6d0914d8a62&crc32=2063067249&did=ac023233ecfda8c10575ddd64bc065d9",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "万能拍照识物",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/1/110_9dac3cbb900324437b1e7435683a2671.apk?yingid=wdj_client&packageid=300512055&md5=8ae54c05022434658c4b45f0d1cba81e&minSDK=19&size=7071132&shortMd5=ea9091e9e2fcc45962b65fb0fd22cda9&crc32=1523371619&did=2b97ad33d8048d89f4a8a517b5b45e7f",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "看手相",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/24/2/106_7541fa9ec35a9ba97be1662157ce59b8.apk?yingid=wdj_client&packageid=600763844&md5=75380271674ffc947a08977a84667c03&minSDK=16&size=19086795&shortMd5=a30595e2e99a360a3541e5e7b94c09fe&crc32=4243726884&did=302778c12523cf62f16034c4dc9f57ba",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "智联招聘",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/04/0/106_693b22ecc26b994fe4e85e455348a98e.apk?yingid=wdj_client&packageid=200769706&md5=d65c907c526921ecf4723b316cddbe3a&minSDK=16&size=73292441&shortMd5=a16870cd67d54b700f6079393e8c8bca&crc32=3377840977&did=1a74cdd98f9b0c4c79cdc317520e42bb",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "自动距离测量",
+    "downloadUrl": "https://android-apps.pp.cn/fs05/2016/03/16/11/110_9fb0579608b1e206db875240f01026d9.apk?yingid=wdj_client&packageid=800186970&md5=15d231125c9df04a9766777c2351ec51&minSDK=8&size=3431320&shortMd5=7c1250d92f3b8913f8ca1465c4038e2e&crc32=4027030669&did=9e8e5eb281617426cbc06806966d9b65",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "军用望远镜及夜视仪",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2016/07/31/1/2_9c606479da64a372c4206eaba675950f.apk?yingid=wdj_client&packageid=100147174&md5=e1f94541a2030825f70a3f8b68e0edbe&minSDK=9&size=6590813&shortMd5=62678c96bcff263b316ae0108bf16901&crc32=3395711277&did=37d50a2bd167ff1ef548f8bcaae25177",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "指南针",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/5/110_0424afe186644ffc2bcd78a67cbb2818.apk?yingid=wdj_client&packageid=500504521&md5=c93524692f678575622b8deccebd3701&minSDK=15&size=6986094&shortMd5=7c88c78d9eb9a50c152378377a6447b5&crc32=3129008231&did=3c69b38bc426de1ef80e58c9a8b5a633",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "艺术签名设计",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/10/22/5/110_44489e5441b29a1be78102972e77b145.apk?yingid=wdj_client&packageid=800714962&md5=54375d315a79ed114b0b3c2781e51ebf&minSDK=17&size=2437833&shortMd5=ea3e6206b7440b684a4ac08e203bda7c&crc32=2768982143&did=a1886610c2a7e71fadc4b7b9091119ec",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "懒饭",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/7/110_36b8eac34f6c74084aeb3d74de3fbff2.apk?yingid=wdj_client&packageid=600785781&md5=16afdbe2c4607fbf14fb72119f3d6265&minSDK=16&size=22498891&shortMd5=545bbe3515e9ff854611df97a7a4a73c&crc32=2927788846&did=4c5780df417decc21fdf977d378eb355",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "万年历日历黄历",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/5/110_56c5dd21ca4d1b50652ab6b83bee8aed.apk?yingid=wdj_client&packageid=100496902&md5=7f9b2c9e8a5ba287b09d2a004838ee74&minSDK=14&size=15972278&shortMd5=9edfc064b10a7db18d0a1d4d83f8f1d1&crc32=2264244188&did=01000089b9a066d07cab30db2c798534",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "更准天气",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2017/10/27/10/110_69acc1192f81aeb9dd1d0b08db3c1b88.apk?yingid=wdj_client&packageid=700337167&md5=f06863f67345b4f717289529b4208920&minSDK=16&size=4058459&shortMd5=6de4b86cade6ffdc7c2ca513348c3a46&crc32=1427840317&did=802ed911d7b9651e8b81b4cf46bf03e2",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "早游戏",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/4/110_4a8212b9ad09bbc6bc5d55ea5875ef56.apk?yingid=wdj_client&packageid=600785126&md5=58a51c5ad38a56fe4eed5993e5fc481c&minSDK=19&size=15941140&shortMd5=09e0c57aa5869ee57061ae985e2d8fef&crc32=842228398&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMTQ0ODYyN2BkS2V5PTkwYjhlMjRiODRlOTE1ZGJiMjE5MDNkMjFhZTI0NTM3YGlLZXk9NmMxMzQzZGJlMmJjZWY1N2MyOWI0NTVjNTIwMTFiMTE&did=4be3ff937e2f8db61c42ef025f8812ac",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "人狗交流器",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/28/9/110_d2d2a623fd6e0a223e0182d0e0b801b8.apk?yingid=wdj_client&packageid=100491743&md5=9ca6481447c266c53344702f67ffc206&minSDK=16&size=11598158&shortMd5=908d676589366efe1c73f1b73572e4c2&crc32=528442884&did=144fafcfe0630c3db4d87be2bf8c4721",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "优信二手车",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/7/1_e3e2aabdb67e7cfb006f04d15db1ed4f.apk?yingid=wdj_client&packageid=200771429&md5=079edacff62d338a0154b8f2a8aa3967&minSDK=21&size=28281637&shortMd5=d097c7765fe33015be272bbfe9ee079a&crc32=546446832&did=9be11b5698d57136384d3c2d96dd4190",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "全能语音计算器",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/3/2_15580a9f145b2f1f4072ac6240fb05d5.apk?yingid=wdj_client&packageid=200770223&md5=65ea6716e8dcdf96755c2c6e5b128cf6&minSDK=14&size=4003002&shortMd5=4121df8dff239472b919446a37d1cccf&crc32=3615518204&did=28ae450996fbac4b78c573be44486f97",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "计算器",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2017/05/02/7/106_64d3e3f76babc7bce131650c1c21350d.apk?yingid=wdj_client&packageid=200485556&md5=355b1ef6a759a226580fd69b054e7db1&minSDK=14&size=1517570&shortMd5=dc851bd020ec64d7585d8fafd2856b12&crc32=825758908&did=e4b0656162d64a567a0a244d64391fda",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "同桌小游戏",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/7/110_761162045b4c40736945d2089c9b2966.apk?yingid=wdj_client&packageid=700495897&md5=2453232ad09daefec71ad9bad17415bd&minSDK=16&size=41447276&shortMd5=4480653fc1a8bbb99a99c4324bc84120&crc32=1931655299&did=3b91d97e0204c0abf5af1e00a8fe55d8",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "形色",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/11/7/2_6c533deb1e30c8568351ffd5ceded2fe.apk?yingid=wdj_client&packageid=500467075&md5=2197b9973184700c77f6c6855ae697e9&minSDK=17&size=28186586&shortMd5=313796a27e1123da6fdd16665c62c56c&crc32=1808328242&did=284566c7127c1a91da0d7640bffe4582",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "全国违章查询",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/1/106_5f468ccdecc0a46ba8ee2b18594a71b1.apk?yingid=wdj_client&packageid=200770757&md5=4388eae1ceed067088018713a14477ff&minSDK=19&size=35954371&shortMd5=a021a2c247cf242b6cadd7762f8e9322&crc32=1747156353&did=3bcbaecb24b98ef038993d1184d4342d",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "镜子",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/14/2/110_07ef1cb47e620e2e85b7f5bd1b3ced44.apk?yingid=wdj_client&packageid=700461050&md5=58f040f241f2a602bfbdb8218065d930&minSDK=9&size=817930&shortMd5=ada78046e830881dcf759d820ee3c0a8&crc32=2240976455&did=d7ad617828f9453fe2666de49e64b022",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "手机卷尺",
+    "downloadUrl": "https://android-apps.pp.cn/fs01/2014/09/08/2_67191151a2b6d2eb4b1079890ed1eac9.apk?yingid=wdj_client&packageid=600003220&md5=960bfb2051753ffa26a095df7c0aad0a&minSDK=0&size=1712356&shortMd5=67bee1473f6c9c35f1ff3f3e4394b547&crc32=4223856377&did=5db21e0abee3dc372f6db96890911455",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "土巴兔装修",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/1/106_1a04f63c6189e5656fcab772b373f3bc.apk?yingid=wdj_client&packageid=300512392&md5=cd4854f04774118d15c428d2116bf7c1&minSDK=17&size=36147942&shortMd5=7a61a7ecb2cb39474fd01bc80cba5a4f&crc32=2937467328&did=b4e0dc155071e8c950ae0ad7f1bfbdec",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "超亮手电筒",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/23/2/2_65ecf673988b9e3f8c1a4715c5c23772.apk?yingid=wdj_client&packageid=400727693&md5=ec9eceab3cff592800346c9f98443c75&minSDK=15&size=8733399&shortMd5=c766ac63587821cfbf8e084247d339a3&crc32=3796078199&did=7187e110b232132e3298073b405a67de",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "彩云天气",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/5/106_3f8223f627960edb788fede206f92195.apk?yingid=wdj_client&packageid=400764749&md5=45a86a6d9a6c7be4e0697f2f75aad54e&minSDK=16&size=21975522&shortMd5=9cec49fcbc528129ec6b739388e63f54&crc32=3288448545&did=20b1b89d9406c9add28b9c566b948a8b",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "闲鱼",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/4/110_4567599595aee25697aff0cc629120c1.apk?yingid=wdj_client&packageid=600784470&md5=cd9143f913d33f381d9001c6eeea7982&minSDK=16&size=56658995&shortMd5=49ffae7f44a3da6faf6e9e872256c7ae&crc32=2165510223&did=7c3b4760894bfe22bad0741fb5d183d0",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "格子画",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/29/6/110_b95107d1b6b09f4b90cbd791e95b56e1.apk?yingid=wdj_client&packageid=200727713&md5=f4a2f6bc3ae0c36c5586bdf16e03b6fd&minSDK=16&size=34046412&shortMd5=2f3dd031fb8165c1f93d799ee6df991c&crc32=3264124487&did=5465f3f3cbdbc7366d83cd4c2780b54f",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "放大镜",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/20/10/110_7e48f13ffea3105cdd160beac922f79a.apk?yingid=wdj_client&packageid=300476444&md5=e3371e745660206a7466b7a3c77aca8b&minSDK=9&size=825785&shortMd5=14d63a8afb28cc9a801a45c19fa91f58&crc32=3441421547&did=0cf4c11765010e980b2f1eed7c46cded",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "点到按摩",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/29/8/110_a5d5ab2deba55949c715a3210977175c.apk?yingid=wdj_client&packageid=500503627&md5=ca40d2ec380e695afe7fd5a557552f48&minSDK=16&size=11679554&shortMd5=df69f9ad6fd8c757b3f4139f5fd638ff&crc32=416585891&did=f23e35f83628f527b0fffab7e58cfd08",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "手机望远镜",
+    "downloadUrl": "https://android-apps.pp.cn/fs03/2015/02/26/11/102_8f90d80bae8ec7cbb4fb5499abc47f79.apk?yingid=wdj_client&packageid=500021599&md5=3de21e1c9f4a52c28b866f8d71fb31d1&minSDK=8&size=668932&shortMd5=6e636b99fb2949cc807f704f43954c42&crc32=1427226676&did=2d7ddec8af61763926b477ad4336f840",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "空调万能遥控器",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/02/22/8/110_2bb6acfc4b60f61c9ad55cbdfa0e18f2.apk?yingid=wdj_client&packageid=100483989&md5=4c32316cfeb48e7fcf6924ded66a9479&minSDK=7&size=3995272&shortMd5=b0a929c086259e80fe684b6a970ec3e5&crc32=698001505&did=4f592d460cd10d896c7910d393f04c5e",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "万年历",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/27/5/2_5a22defe002dc1b14678b93ad636568d.apk?yingid=wdj_client&packageid=400758426&md5=5cb6647c71035ef363843d6f7faebcea&minSDK=16&size=19930835&shortMd5=c85558531b103e2ff27d0dc46bd802d2&crc32=447274001&did=671ed34f3c0c5d8a4bf18197461e1b14",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "微信定位精灵",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/16/6/110_ec669b816a723451aec9103b00c39fe9.apk?yingid=wdj_client&packageid=800763059&md5=424a8e1255e9a9156d1da125673886dc&minSDK=17&size=10720433&shortMd5=58b957cb8f4499b4625ecef6733c6ab5&crc32=692885205&did=ea53fb7305d0e41bcb2b003b0c433a7b",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "毛豆新车",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/1/1_e54af86a9afa2be2381368d22b344473.apk?yingid=wdj_client&packageid=600787269&md5=840569fec8bebbab98a06b526aa9a543&minSDK=16&size=19447629&shortMd5=afa82cac36aa05ef7298b8eafb6ba17c&crc32=3647369025&did=c8fc225b7dca6768b4260330f79ff826",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "家常菜",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/20/10/2_9f7851b26ab12307c41cf83bcc810a10.apk?yingid=wdj_client&packageid=800772252&md5=d5828bbe9154c221bb6ccfa1c65a218c&minSDK=19&size=12058310&shortMd5=c76ce2c16f7b87492498edc1d15c0be7&crc32=3047449607&did=6cc0a54f02689cf38fd474f4a2507655",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "咪咕灵犀",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/4/106_e343df8b07536a248d7f4fc1efc605f6.apk?yingid=wdj_client&packageid=400761502&md5=5a29fba0607550acb7a681a6517396c3&minSDK=14&size=24182763&shortMd5=a9064694936d88c41209ce855cfbc3d7&crc32=352505778&did=44bb3d534dbb9ff3b0599312dcb8dc5f",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "买车宝典",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/2/110_ac38bfaf2c02c018ba85214f4538ed46.apk?yingid=wdj_client&packageid=400762036&md5=e5beae6e1e19afb98c7606bf97880137&minSDK=19&size=36744553&shortMd5=1dac41523dfe3c757bf66c3f2be4a180&crc32=3428780341&did=a8a1c5d5bf5e93956d4aa77d01491f18",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "每天赚点",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/18/5/110_7c4179f612244ea002ec16ecb5145882.apk?yingid=wdj_client&packageid=600777798&md5=a0aa7729f0477bd9bde4cb0addabc885&minSDK=15&size=15208390&shortMd5=d617559c0279042a7f4a8ae0e5547bb5&crc32=4252290901&did=38a0025343da630bc63fdb5cb7eb4cf8",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "人人车二手车",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/29/3/106_fa089894a76d8ab0b1d25c91a447b23e.apk?yingid=wdj_client&packageid=300509278&md5=e10760b0cac68b8b2ac334926b108831&minSDK=14&size=12899993&shortMd5=5b25a0f99ba7c674d79a2bd417478ad9&crc32=604364925&did=540b8ccb1142aa95938f6749a31210bf",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "好友定位宝",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/8/106_7ecf703a13bf08680572040acaaf3657.apk?yingid=wdj_client&packageid=100494723&md5=17af193d4e3d32e28962403d9dc8e16e&minSDK=19&size=16410885&shortMd5=102c4ea238f55f9805d2f48cdf4168e1&crc32=2493987249&did=c0bb15ea7a686cb9fee830b1cbb646bd",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "伴夜",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2016/08/31/5/102_a3826593cf459b667f158afa81813320.apk?yingid=wdj_client&packageid=100187806&md5=8d1eddaee6a39e400411c5175e287123&minSDK=14&size=10492859&shortMd5=e430652dac4b495c20c7bd1464eaf374&crc32=4069409239&did=c822b5acc47935499c02bc4885b773d2",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "链家",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/11/2_07d101420bebf1bd38b25e1611539032.apk?yingid=wdj_client&packageid=400762030&md5=01824a6ea1d9b31e13d04b5622032eb0&minSDK=19&size=57665355&shortMd5=9d672073dfa21b9b5c2841d88b25c4c0&crc32=679417093&did=7d09ad3ff3c1af6913118abbf476278d",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "猫狗语言交流器",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/10/11/10/110_77a31c4b67dae178f15c584d8e4426ce.apk?yingid=wdj_client&packageid=800711186&md5=35ac3b5ef9b0f0a84014cab591f89bbf&minSDK=15&size=13141797&shortMd5=293199b3142d8750ecc5cadebe6acd5a&crc32=3521614915&did=6622d212962108fcbaec179775803ba1",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "到位",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/9/2_0c40e2c0db34835e6b7a29f382e48731.apk?yingid=wdj_client&packageid=100496073&md5=4a7f61cff6d2d30d12f493eeb943f1c6&minSDK=11&size=16095428&shortMd5=afdba08cb56274feb2cee81ad50d727b&crc32=264208637&did=be4cc4b16d42a05deb106a92291e4b1c",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "语音报时闹钟",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/5/110_1bf22f4d048a2921dbfa364704edd9be.apk?yingid=wdj_client&packageid=300513615&md5=b7980f59f67131e2ebc1c106289879da&minSDK=16&size=9291124&shortMd5=5d95be89b38e4340fc29e7719860188c&crc32=796981807&did=b296880b8866ce4941dfddaed46dcec3",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "好豆",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/4/106_382c030ab29a0fb1baad301c24d561cd.apk?yingid=wdj_client&packageid=600785155&md5=bb092602aabcf70fce3007579a656878&minSDK=16&size=59782399&shortMd5=547a36958e90d6ee4d254e0e05405f15&crc32=786046185&did=4e158e55fc2732bf036cd3ddfe535439",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "口碑",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/6/110_3ddf1ad2341ed729ea8c1963819dbe3a.apk?yingid=wdj_client&packageid=200770191&md5=74dd30c940eb6de9cf3507a6fdeb7e13&minSDK=18&size=48709122&shortMd5=95dd953ff67fea44d54e1e5c93afaaca&crc32=3743255872&did=cb867be3d4780328d6251ff9c9a33180",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "烘焙帮",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/8/110_2867365766503e369b022a5069166c3d.apk?yingid=wdj_client&packageid=200773675&md5=7c5c1b11dab8df47371e319cc03669cf&minSDK=16&size=14033483&shortMd5=1b1ff690728acdc69c8b71bab68a9d61&crc32=2281119575&did=0cfd1698baf9b44d0d2833182057ded5",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "画吧",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/5/106_f5a1ce40109b748b90fbc70250942d9c.apk?yingid=wdj_client&packageid=400764506&md5=4edf72d8804b5def8a2b0a05ff86eaf1&minSDK=14&size=47686236&shortMd5=d62aa242ca7c7e427a8cb2e2a28a0026&crc32=336859276&did=8062c75993ff4c062c68edbda7614261",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "中国福利彩票",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/21/0/110_39763d15c6afdeaee748e2c33d09ad33.apk?yingid=wdj_client&packageid=300507496&md5=016f25a22023ec2a21d92fee38f4a61f&minSDK=14&size=7374233&shortMd5=b9bee22d026ccd0830426bb3d5fa240a&crc32=3973408744&did=754074248fde21e81dfe12ccde84e047",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "51米多多",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/10/110_c282ebd8b38a4bfc3ac377335b8177fb.apk?yingid=wdj_client&packageid=500504070&md5=978f66f82a9200479aaf8cc8167d0963&minSDK=21&size=18052149&shortMd5=e266732d536a0c443fc43a5be0d03bb1&crc32=4107046664&did=02fd6251dcf4a66bdae5b7a0aa2e936b",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "墨迹天气watch版",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2017/05/10/1/115_fc97021e250a455c55c1a49f7f081c30.apk?yingid=wdj_client&packageid=600499321&md5=0d24f0384918028e6c0171cc7876c80d&minSDK=11&size=2966577&shortMd5=216a4bab0397f9c4121dbff9616a319e&crc32=503731253&did=793745252a29fcad852f564523e162db",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "变声器",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/30/4/110_b876d7516499c903bc2650bba5b7f35a.apk?yingid=wdj_client&packageid=600740887&md5=4aa71523942048364902c1ed363d3f27&minSDK=19&size=55048005&shortMd5=4488598bdfcd34e1a996cc6998d3c9c4&crc32=4175867077&did=e12ee6ca2e8043a8d8fe2bc52d3cb162",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "温度计",
+    "downloadUrl": "https://android-apps.pp.cn/fs03/2015/02/12/0/2_701933a972132fca3372606a339cb773.apk?yingid=wdj_client&packageid=600057578&md5=55c8e263d0c6b687120d58f7ccd7d8f4&minSDK=9&size=4038858&shortMd5=a4b984338d82543ef6a9e6000577f0a2&crc32=727734249&did=da0e92eaf1b2aa240446cb59d7c98653",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "酷家乐设计师",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/2/2_cbe97198e9a1fcc8be81546c205aabbf.apk?yingid=wdj_client&packageid=300513570&md5=2fd829dadec641e5e754199736b1c469&minSDK=21&size=32957615&shortMd5=54bbb7f4afd334289951cbfab9b0a65d&crc32=2152680964&did=9640d980fcea91d3e760536a25190ad8",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "掌上网咖",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/2/110_96d87ab7d446e593de429fe43f6a3b13.apk?yingid=wdj_client&packageid=300511280&md5=8be28c1eb8402be5b2fe961fd8a4a9c4&minSDK=16&size=14071091&shortMd5=8a869ee8566d0e009f5e46c687d7736c&crc32=268777542&did=a3a860c457bc66c0b33be866cbc2fa17",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "闪送员",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/26/11/110_19a2ca84a68e6e75c814f3ffc1a8fc83.apk?yingid=wdj_client&packageid=400758106&md5=c141617fc84e9fc5b7778337e6bda2d3&minSDK=15&size=61066016&shortMd5=c2e6ef5b323bdbd507cbfffc8275b855&crc32=124772101&did=86fff1c9577a003818b9b5196b83a0d0",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "车轮",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/3/2_35623f48b2db98c11217564494fa9d30.apk?yingid=wdj_client&packageid=600783737&md5=c7f4f301ad8c244fc132a95938dda5a3&minSDK=18&size=31287397&shortMd5=56aae9013c716875e0574469762410dd&crc32=3388615313&did=50b78b6b33f5819053657ab5b215c187",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "万达电影",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/27/8/110_cce2df141cd947d49e5fa0d2c51ce04d.apk?yingid=wdj_client&packageid=200767348&md5=dac97c3e2e04bfb972d64558a63fdfc4&minSDK=21&size=38870737&shortMd5=5745c39e5488207005bbbb912ceaae00&crc32=2409226099&did=5044c3318a5aae15151d20669d04c9a3",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "脑筋急转弯",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/02/26/6/110_50476e60d68119b617fdc0659a59446f.apk?yingid=wdj_client&packageid=600771744&md5=80486be52a87e1a71d1357d956d8973b&minSDK=14&size=20658220&shortMd5=4e283cd0ee2dcb1eaee96828008cf3a5&crc32=2624722043&did=0265f2c81a7d4a637c42851ccfa75055",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "红包捕手",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/10/110_9f7a3f231f47e7848f0b50d0401d6329.apk?yingid=wdj_client&packageid=700498212&md5=942fc18813e5d11b9078e1c99f0fc014&minSDK=16&size=5673957&shortMd5=c4baeb4a16870a679ece41a460ff8d16&crc32=996258550&did=f0841a93b2eeeb7309176bff7e1e4b51",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "美食杰",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/19/0/106_afd681f3cfe24c34c16de8ae2e3b69fd.apk?yingid=wdj_client&packageid=800763862&md5=24501ce424fcc67f3e571ada2d8445ad&minSDK=16&size=42550387&shortMd5=ad0776c4eb6d377434ecc08ab9999d4d&crc32=78090445&did=91dfc96c50495f0432585bb70d393a40",
+    "categoryName": "生活休闲"
+  },
+  {
+    "name": "数据恢复助手",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/26/0/110_2d4eda6c30b664ba3eef4a6b50683b23.apk?yingid=wdj_client&packageid=500502902&md5=aa95ea1b79b116762ef5505279efc049&minSDK=19&size=7641902&shortMd5=9e8e24e79d31800370406a36354ea807&crc32=649086029&did=5b10fd1eb4f0ce63705d4aab0dbd3102",
+    "categoryName": "生活休闲"
+  }
+]

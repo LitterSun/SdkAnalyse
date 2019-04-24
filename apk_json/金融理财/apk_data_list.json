@@ -1,1 +1,512 @@
-[{"name": "酷狗音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/02/22/8/2_a6965152f652fbcbd335a0d9e97d6696.apk?yingid=wdj_client&packageid=600771035&md5=28d8ee3ecfa5406bec8b4c7fce79d6e4&minSDK=16&size=60042195&shortMd5=f87bd12510fd8e280dfe22e9472f7997&crc32=1942765317&did=b65a55954e06d4464576cc721e243c22"}, {"name": "唱吧", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/11/110_3e4be290c0eb83405eccfdad3913613a.apk?yingid=wdj_client&packageid=200768892&md5=abae465cb669887825df0dad25ff93f7&minSDK=18&size=92512752&shortMd5=535b958f72c7dead038d7533f7884cf0&crc32=1342486463&did=29f7cf656c854bc3862f2780486884b9"}, {"name": "西瓜视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/4/110_b5b944bb6a71400c5b0ce562a794946f.apk?yingid=wdj_client&packageid=400764374&md5=d04331d7e4f0a506bf53bfc0881314e9&minSDK=14&size=15455421&shortMd5=df0c1a3c446aa77c7f7cd4bc0eee611d&crc32=4094287242&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDU5OTIwM2BkS2V5PTgwMDgxOTIzNGVkYTZmNTg0MWFjYmU3MjNkZWI3YjlmYGlLZXk9MjNkNGU0YmU5YjY1YTA3MDllN2ZiZWRhZjdlNzc2ZWU&did=24e8505829bbefec3e6eb63854ffe583"}, {"name": "咪咕音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/0/110_21197cb0199f77c95254146fff971320.apk?yingid=wdj_client&packageid=400763144&md5=81024a1c78693fafd796925fbc507c78&minSDK=16&size=96419683&shortMd5=95914fbd9f9a22462322400251e7b03f&crc32=593034464&did=cb18812b86a9d21101eaf14fa44a4a39"}, {"name": "优酷视频-绿皮书精彩呈现", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/1/110_8ef665e5f95762d557281f8219f70757.apk?yingid=wdj_client&packageid=800769159&md5=b977dfe25dbfc8822ca9fb61300de4f8&minSDK=16&size=44592473&shortMd5=b89942ef14cfd9eb7ca431b99aa10950&crc32=4236439688&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMTIxNzU0OWBkS2V5PTA1YTFlYzMxN2QyYWZlOWQ1ZWJiNDVmNWM3NGEyMjBkYGlLZXk9ZDJkZDU5NjM1MzM1YjhjNmY4Y2UxMjQ4ZjMzZGY5M2M&did=75bd0fab44e01dc10560794f43742655"}, {"name": "腾讯视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/6/106_eedab17821fcaf9a8e96d88c33312a3f.apk?yingid=wdj_client&packageid=600786240&md5=d52676a9473b678abec85c4ccf64e420&minSDK=14&size=45403530&shortMd5=165642e52094e4ef07fd3db423f924bf&crc32=3884793457&did=20e7c03a970e3759927bebbbec69a1fe"}, {"name": "火山小视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/6/110_cd85225bef6f5384cfe6d431b4644383.apk?yingid=wdj_client&packageid=400765174&md5=62d1b65a98fb5e5775bee5e4cc94b50a&minSDK=14&size=30405843&shortMd5=c8907a6da8b8542c6a6462bd6c213b85&crc32=3418593231&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDU5OTIzNmBkS2V5PWZiMjkwMzg0OWE0ZTFiNjMxZWMyYjM2ODkxNDdkNTFjYGlLZXk9MGU1NzUwYmYxMDZkNTYyMTllZDRjYTRhZmU5YTE3ZTU&did=937e8d08f5263d9d1e73c3c41ade657a"}, {"name": "QQ音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/1/1_034a14f4425236eb750189fbc0d3c9c1.apk?yingid=wdj_client&packageid=400760311&md5=581a6f7a52c99161b0888530353b2f2f&minSDK=14&size=60349498&shortMd5=e59e41bba1985191b6d30459b505556f&crc32=3257721913&did=feb8d674b6a42f7e1ca2cdcedb91a6ee"}, {"name": "铃声多多", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/5/106_2068e1ba917c3ab50bc41537d676faca.apk?yingid=wdj_client&packageid=400765163&md5=f85510b2fd7337b8324837fc4b0515c6&minSDK=14&size=15159439&shortMd5=277e94188aa3968396aceb88e5c80d76&crc32=639944988&did=1bae549a9739c8ff54d6a6a55990bc63"}, {"name": "酷我音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/6/106_9a8adcc14309505589cc8da6b38a41ab.apk?yingid=wdj_client&packageid=800771840&md5=9b53f2730a8ff64e7c96c051925f3b99&minSDK=16&size=52152805&shortMd5=4e6a937c374fbfc43050142813b23347&crc32=4241112130&did=6640b21f1844bb68903b8673bc8cd8aa"}, {"name": "网易云音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/9/106_7955c4b45adea087aba358d8e60dbdc9.apk?yingid=wdj_client&packageid=200773011&md5=88cdbef32a6adb26c957d037f8a873fa&minSDK=16&size=55331086&shortMd5=fb0284254172f8a94b952616aeae37d2&crc32=4066427146&did=2e9a7d260cd23cfa5988a5bdb3457ab7"}, {"name": "PP视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/5/106_f26a50f86b9f8f21ec743e2d96bda6e2.apk?yingid=wdj_client&packageid=400762870&md5=75705901b41de7e45a61ddd874173e39&minSDK=15&size=78912262&shortMd5=d1ad02b4fb8485510500733957be49d6&crc32=1866622484&did=75e712efc885d05dec89246fd8a30427"}, {"name": "哔哩哔哩", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/0/110_4d1a8e2083aae4e153ab7d41667caec1.apk?yingid=wdj_client&packageid=400761609&md5=5ebf2326995ad0c5e17dca20b21f61f8&minSDK=15&size=87785024&shortMd5=664b68218d4f75e304b47915c8b21c67&crc32=2709233896&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMTQ0OTAyNWBkS2V5PTA2MjVhZDI4MDlhMTdkMjg1N2E2MTAyYjNjYWI5M2Y1YGlLZXk9NGI1MzM2ZDRiMWZmNWE1ODlhMzhiMWVlZTZkYzU2M2Q&did=b8b597cbc3643a7e563a344a44bede50"}, {"name": "万能视频播放器", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/23/0/110_c1143c042098e02a9710727621287dcb.apk?yingid=wdj_client&packageid=800726244&md5=f710ec99e1a6f0ce80918c7f16696cc0&minSDK=14&size=10915324&shortMd5=fd61188686b8def4f9ed101d27451f97&crc32=3488062415&did=cae5604c9e2b8d72a4ba7bf8dba43464"}, {"name": "影音先锋", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/4/106_9fb7eaa3f65c5e54b8597a4c1bb80839.apk?yingid=wdj_client&packageid=800769008&md5=f7e23bf5c42402d2fb65031bb729bd68&minSDK=14&size=26058777&shortMd5=4c338cc7d8e90f7416a5946fff549bf5&crc32=722182833&did=56f09d4a56fd67413a32d33d58461220"}, {"name": "影视大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/5/106_0f7dbe2f645bf6bd1ff4940a08948f03.apk?yingid=wdj_client&packageid=800767905&md5=002132096b8c62dcb335a67fe57df556&minSDK=16&size=10262704&shortMd5=c01e0ccb8951fb74b92d8778425758cb&crc32=2609834683&did=432596a18339b5f0223e7198d522cfbb"}, {"name": "影视大全高清版", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/6/110_059682ee15ce27dd079766976aeed018.apk?yingid=wdj_client&packageid=700497992&md5=038f4715f96fe58e1473e8e70a4e6a34&minSDK=16&size=21181006&shortMd5=cac45d200be1de8d26c32e6cddb22c1e&crc32=3187693359&did=4dfbbe90f4259e1f59e55f3018689784"}, {"name": "咪咕视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/2/110_fd78dd73ed421f61081ab238b3b94dea.apk?yingid=wdj_client&packageid=600785093&md5=b048c4cb0515f42f51022c0a83741dd0&minSDK=19&size=82068535&shortMd5=7b1e946b9e870060ac55dcf4a801ae51&crc32=2160772399&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDg4MjU0OWBkS2V5PTQyOGM2NjFhZGZkYWUzZDQwZWM2ZTdmMDExMzJlNmU3YGlLZXk9YTMxYzgzYmNhZTAxZGM5NjRkY2QyODgyNDMxODBmMTI&did=799cc26d2f80f2f00f0b2d699ac0a78a"}, {"name": "好看视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/9/106_241daaa011a8bf0d813e9876f1e1fa06.apk?yingid=wdj_client&packageid=800770962&md5=11705883386792358bb8a1945fe4cde9&minSDK=16&size=16598650&shortMd5=282911936faa91acc53c3b5b5ea94134&crc32=2234412824&did=4adb7523acc934952bce129e62f3b9eb"}, {"name": "搜狐视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/8/106_77789292769125e7cff8846381775bc2.apk?yingid=wdj_client&packageid=600782871&md5=27820ec92d52670fa341da2e3e7ab47d&minSDK=14&size=45555027&shortMd5=9bef55c147c3f6aad5e41e36a3eeed69&crc32=1866491593&did=d1f6be34ec3c6605e8ff01b3f985af5d"}, {"name": "虾米音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/5/110_31b2a2ce84051601d99d3f21d834588e.apk?yingid=wdj_client&packageid=200773689&md5=252d0bd92f9af608aeca83b734b76e91&minSDK=19&size=53840818&shortMd5=3004b1007b2e65383e757658c4fb1b48&crc32=2843508152&did=3d47fc843a9bbd21929bbf83c4df8089"}, {"name": "咪咕音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/3/106_b05aa2ebb28492c6a1782a3b4e4701d3.apk?yingid=wdj_client&packageid=400763156&md5=81024a1c78693fafd796925fbc507c78&minSDK=16&size=96419683&shortMd5=95914fbd9f9a22462322400251e7b03f&crc32=593034464&did=b8533b9d0db7b22fac58c7125df44ced"}, {"name": "暴风影音", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/2/106_79536a84d71004b3bfd03ed7c117ea29.apk?yingid=wdj_client&packageid=200768696&md5=551274172f6671f30b28a4ba41390442&minSDK=14&size=30183973&shortMd5=66a843b7c8cefc484cdacdee73c2c8e2&crc32=3960057059&did=ee6fece96f65561cc72722271706361e"}, {"name": "腾讯视频HD", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/6/110_d3f8fd88e843b5606c016b455ed5d785.apk?yingid=wdj_client&packageid=100495550&md5=6edf8d126ce143a56452ec243004fe92&minSDK=11&size=27865357&shortMd5=9287118dcdcc27ca0e6a2c67217134f1&crc32=2839298837&did=7af5fa64e55062d21c65261ac8862480"}, {"name": "花椒直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/2/106_e50b4dd07f2c0b6b46723753ddda1fe4.apk?yingid=wdj_client&packageid=100495847&md5=bd50e0d4c91576695a6706eb31f560ae&minSDK=15&size=49530844&shortMd5=a6e51d0fb0de97779fea2fd7152cface&crc32=1511303934&did=85e06667efad89897a8c9231ea03fc72"}, {"name": "爱奇艺极速版", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/26/8/2_cfe41988168ce20a1701190f3fdedaaf.apk?yingid=wdj_client&packageid=600780469&md5=b7daa64acc524f08bb7d2ec41afc27f9&minSDK=14&size=31911877&shortMd5=3fd865f74df34d8c98b9631b82be7b8c&crc32=584249779&did=38316ffb03dd425f04e641c21e888d8a"}, {"name": "芒果TV", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/4/1_f26ee1e866475b62042efad895dbcf06.apk?yingid=wdj_client&packageid=800772025&md5=df8688eeb453855fb856439310926adb&minSDK=19&size=58720555&shortMd5=a19159226a6215fc8c5a31263fcd29a2&crc32=4092232076&did=5dee83727b163b17d1bc0186db5b5076"}, {"name": "水多直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/28/8/110_f458c2df0bdddbe247579bc2051b536d.apk?yingid=wdj_client&packageid=600750532&md5=6bbe297cbf81dfd77eef1441192c6ced&minSDK=18&size=44406977&shortMd5=fb9738be61fbe2dd0adc631fd9d497bf&crc32=2634105315&did=e73e8674a9f54a56726f68d4e750aa5d"}, {"name": "手机电视直播大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/1/2_a5a92fbbfb7f771da61350414941ab8c.apk?yingid=wdj_client&packageid=800771040&md5=a9a5551e5d79a5daec625cd91186f52e&minSDK=16&size=82291746&shortMd5=25ca729c67011cc6374850339152ab27&crc32=890492461&did=3e9478845b0525c8d80c9810c610ba92"}, {"name": "映客", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/04/10/106_1633f57d70536eefd9135ecdb54cb091.apk?yingid=wdj_client&packageid=200769941&md5=cbbe0f190fb737c8df7a5ccaf5adbf3a&minSDK=16&size=66372917&shortMd5=10db14bb79480a1460ed7aa94663201c&crc32=3703232065&did=a08ad03d9736de439dd0785c3049791a"}, {"name": "影视大全纯净版", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/10/110_75f7812df7db9faff3280dc54faec1d2.apk?yingid=wdj_client&packageid=500507460&md5=303379cdfa95269c368050bced8ca822&minSDK=16&size=21032461&shortMd5=d5fe08dfc823b5ad02cf64ce9cfc9888&crc32=2960491626&did=e053d1a8abe1da2197a6bb22586ef4fc"}, {"name": "波波视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/4/110_f49e5ebbb387ba0b0d0b3ecc6c76bbd1.apk?yingid=wdj_client&packageid=700496826&md5=e549794a979b5bfb752a673ebfb9741f&minSDK=14&size=12644213&shortMd5=2d87151370c62a0d36f00f4c5c5e2638&crc32=2224787055&did=d602b3356b043f25a66f167796aef962"}, {"name": "南瓜影视大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/19/4/2_d128c6fbbb48c5070bbaae75efa29a75.apk?yingid=wdj_client&packageid=400756167&md5=66dd54af3e0405b827ffb7bb32d2f6db&minSDK=17&size=16723767&shortMd5=db627458b31854dfe00588e2751e4e15&crc32=3351723181&did=9de9883cfb6a6220f1aebabd1ca97e3b"}, {"name": "丁香直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/19/10/110_7a541522aa751398bde649ad43497d06.apk?yingid=wdj_client&packageid=300483839&md5=464d1e5316e02614c957855626203fb0&minSDK=16&size=49473553&shortMd5=98a05a9ca7f6caf929dc09e49b9584d3&crc32=2454160666&did=52a2accdd8182cc325f1860195ad004a"}, {"name": "声音放大器", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/31/2/2_52384b12e4d89f68ce00031e38073f96.apk?yingid=wdj_client&packageid=600766326&md5=0b23255ae5c1ba440e8cb586329a6e03&minSDK=16&size=606846&shortMd5=03df8cb9bc5012a991b1af15b805d639&crc32=1167236589&did=4658dd1bbdab317deb30ca7cdbbd242c"}, {"name": "Ai Miharu Collection v1", "downloadUrl": "https://android-apps.pp.cn/fs08/2016/05/02/11/102_154060ecf2d913dc8a619874726dc972.apk?yingid=wdj_client&packageid=600237160&md5=8fc440df820321d06c6505ae0b02a969&minSDK=7&size=6465185&shortMd5=bf27d1d2df4ea1bd8c052072befae90d&crc32=136326814&did=2ffbfe204724a3d07171a865fa8c3743"}, {"name": "DJ多多", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/0/106_e2e21d2c7b9de7f709e7249a7fac9340.apk?yingid=wdj_client&packageid=600787122&md5=ade717dde563c7dd121e1bb9e35bfbf3&minSDK=14&size=20351216&shortMd5=09b0e70f0dab1cd657117cd5cc3371fc&crc32=2740010012&did=f60955b0c50f5445d38b4ad3716d819f"}, {"name": "皮皮虾", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/7/110_b886a60a001a028f492a5b1ece2ced6b.apk?yingid=wdj_client&packageid=200772614&md5=ef39267205fccb30bb631db32b3757a9&minSDK=19&size=26299886&shortMd5=88f98f9f2829d7719e275b54ac153b5c&crc32=4106442308&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMTEwNjE0MWBkS2V5PWQ0ZmEzYWVlNThjZGUxZDM2ZjVmMzQ1YTk1Y2Q2MmFlYGlLZXk9M2EwMGViMDNhMzBjM2I1MzYwODIyOGM1YWYwNGMzNDI&did=0d5b5f304cf36293e974135f7d06b5f8"}, {"name": "斗鱼直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/9/106_f6f9e73bafcb0aeaf1363aa655ece92b.apk?yingid=wdj_client&packageid=200773571&md5=44e8e6f56029bcd0bcc154e84c1dd54c&minSDK=18&size=51299123&shortMd5=1750c96fd84653da8cec81a789525f5f&crc32=3546416557&did=9cd6b578086a3485fe85b37e4378892b"}, {"name": "全民K诗", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/28/1/110_1faf25e393f16a592f6d345c664a0882.apk?yingid=wdj_client&packageid=400759090&md5=a0c517a0ae6ac7d5e0e2336d88f83fd5&minSDK=18&size=61336703&shortMd5=064ccdd1ad3304acd35612771984639d&crc32=824874757&did=fa5e6cc09ab82f43173f68a8c79334e1"}, {"name": "免费影视", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/8/2_998f7332c292dcde6429ce467f981d46.apk?yingid=wdj_client&packageid=700497938&md5=d6ca5c55f1529dba17bbfe76f07ddf87&minSDK=14&size=31177805&shortMd5=e588bc773845d2bd2e29a1bdc045d5e2&crc32=52353503&did=791165d9b952123b987a5262de6e22ad"}, {"name": "土豆视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/2/106_b98797cc8df40b68c056872e1ecb5227.apk?yingid=wdj_client&packageid=400764070&md5=8b19925995960b990ba646078b8c2e70&minSDK=16&size=26879020&shortMd5=e81437ecebc52a5e301234f38aaa266c&crc32=169358243&did=4e8891eb77b55ac0a6ec5430597a4718"}, {"name": "手机电视", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/1/2_0d571e018edf06b7590b7e60305a8e9d.apk?yingid=wdj_client&packageid=200772498&md5=89a2e35dc15ba3316b77588718f04fae&minSDK=17&size=40085522&shortMd5=f62f51100c35c45fd349140cbdb9d564&crc32=434681779&did=2e570d3c461d0032d1a3c49046607e35"}, {"name": "手机来电铃声", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/02/07/10/110_0e1167215cc387b5052ee8f5790193cb.apk?yingid=wdj_client&packageid=700364556&md5=686cbb3de5cfc670049b7f241cfdee6c&minSDK=16&size=6379662&shortMd5=b51aaaea64ca595e1c2c0f34b2dd168b&crc32=731803122&did=8585763b6d3fd8851e51981b36c1b9d5"}, {"name": "一直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/5/106_dd4332c4a78f1bd10646675a881fc32f.apk?yingid=wdj_client&packageid=300512956&md5=445c92aafb68f3b66542b9d7c4c646ca&minSDK=14&size=75115830&shortMd5=860aae318792736f5e6b4dbd4fc754ed&crc32=4245992982&did=31ebadaf918e5a1a53182d2d1b5ff9f8"}, {"name": "手机收音机", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/07/26/2/2_5b060cff32b1ca996816112d944a7372.apk?yingid=wdj_client&packageid=600697929&md5=d2b9774fdaefbc497a70dd009462f244&minSDK=14&size=7234464&shortMd5=74e2da884ddcdc40c459dbd898a6aaca&crc32=1544221031&did=1f72495207fc368ea82e8f0381d4daa1"}, {"name": "K歌", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/18/5/106_b8aa2d597d881b6575c29ff3b77bfc29.apk?yingid=wdj_client&packageid=500501070&md5=88d1c48b4b53d7ce1b84f75f21e11713&minSDK=16&size=74362114&shortMd5=0aae0ede7c42836b95f4f2b52c63da35&crc32=2832896161&did=a64cd14f51330db88e506d1f178fa6b2"}, {"name": "秀来电", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/13/7/106_dd2a5f75a6f6c64284bdf91e2409a5c2.apk?yingid=wdj_client&packageid=300512223&md5=e7ff5a0d8dd20a58d4fdb3b5fa8213eb&minSDK=14&size=19089542&shortMd5=94462926a692f43f65ce3bdfeacbdec1&crc32=1191734800&did=16c7251b894e722f8163aeff990d2a4a"}, {"name": "PP体育", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/6/110_813776975a278336120c54ea3f6f2bf8.apk?yingid=wdj_client&packageid=400760426&md5=587f95be6deda61f568664e539700df0&minSDK=16&size=56660559&shortMd5=d0b9cc89a3322e63b4ee193a0b36a24d&crc32=2664196100&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDk2MjkzMWBkS2V5PWI0OTk0NjAxMWIyOTE5Mzc4N2EwNGQzMjdkYmY3NzRmYGlLZXk9OWM2NWIzZTFkNTYyOGM5NDI3YzE2YTliMjk4ZjAxZmY&did=eebc275a67b620335f66919a56c616b5"}, {"name": "深夜直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/18/9/110_2303e8240f6504c75395c3915b5b6e1a.apk?yingid=wdj_client&packageid=200748728&md5=9754b0965851106fe7b293e170f4a725&minSDK=17&size=48488940&shortMd5=e1a1351b3f03898aff7d79bc425b29b1&crc32=2611699652&did=8554e3687be472d428a80c5407f4c05e"}, {"name": "央视影音", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/2/2_5f16fdf08e186eb9a74b72056619bb7e.apk?yingid=wdj_client&packageid=800767317&md5=26eaa884c650b80b5680fc99470017ef&minSDK=19&size=55541934&shortMd5=26b45e0d502028ca9772df34bf7c86aa&crc32=544807640&did=9bd9c6fc8c9777133396ba6fee5e7966"}, {"name": "乐视视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/29/4/106_4640aacaf655f6830ca8d244bbe42467.apk?yingid=wdj_client&packageid=200768130&md5=1df0f81447870de70cc478ede1dae1e9&minSDK=16&size=73107239&shortMd5=790b16e277e9929c072eae60ca0c7f82&crc32=3886041515&did=6fef7d8e570780c00a35fb6f1e814d4f"}, {"name": "万能影视", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/18/2/106_f108e6c13507cabdd4207c6e875109d1.apk?yingid=wdj_client&packageid=400755514&md5=3968f12dbc4af6e625a6794598cf15c2&minSDK=15&size=14147279&shortMd5=1d12e23038f30b78d00b59981a99d547&crc32=3113285105&did=709482ee57170786991fd700aad75a3e"}, {"name": "91全能播放器", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/29/4/2_c99799aab5e54f060b457b397dadfc36.apk?yingid=wdj_client&packageid=700494328&md5=6446d044c4040977cb512576b06764c7&minSDK=19&size=18381005&shortMd5=f995b7a1b9337c0c8baf32b3c3977832&crc32=205143837&did=6806b5c1ff7a157cc2ee67623c03e909"}, {"name": "快手看片", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/22/7/106_95ddbccf2216b84f3b4decfe3fce642c.apk?yingid=wdj_client&packageid=400757461&md5=b98c2b75d29b238d33a48bd2fbaacfa1&minSDK=14&size=41457198&shortMd5=db1ed61544354d241e397ef457bad57d&crc32=695772651&did=bd30eda46d7b8e65c27286b94d18dfae"}, {"name": "速播影视", "downloadUrl": "https://android-apps.pp.cn/fs01/2015/01/31/2/112_867184b3b5fc290ea919d85762a9dfd9.apk?yingid=wdj_client&packageid=200044936&md5=bde360cd086e60ce11093d5cbb31c414&minSDK=4&size=1486467&shortMd5=8b7ac981a6582ce3bbc301a14a458ef7&crc32=1145009497&did=fe643eee9618d79ab54b876d26c3070d"}, {"name": "黄瓜视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/10/110_a4defd39bbf4b22ea564eb519ede5b1a.apk?yingid=wdj_client&packageid=500504725&md5=160f1612bbcb229c96bfb73ae25c14e0&minSDK=14&size=50782521&shortMd5=81c1eef91ed8870481bcb263d13400df&crc32=106415503&did=3e29da197ebd9cb93cdb40bd6e214b94"}, {"name": "虎牙直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/3/110_4d89cf946f2428b498b2462ff5dd9319.apk?yingid=wdj_client&packageid=600785125&md5=c79bc5ea1af130fc4dd7cc48ece709a0&minSDK=19&size=54258249&shortMd5=e4dc3e2147876be888383664efc9bd6b&crc32=2495010825&did=ff244e3b6e2be53bd5ddffd6b9c59b16"}, {"name": "石榴直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/5/106_121dccfac5f04efef905f24591e23253.apk?yingid=wdj_client&packageid=200770942&md5=8500e74d5d7bba34c2a8350156493ce9&minSDK=16&size=73274666&shortMd5=dabf229fdf6d24d7343378dca33fdf3d&crc32=2479195394&did=d292e60db8dd84a1547ed70c6a3a0bec"}, {"name": "铃音多多", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/13/6/110_cc1d0d1d6b4d9c2e1629f8db1765cf12.apk?yingid=wdj_client&packageid=500499810&md5=aa886bfb8191385b4de7e99c96795ab1&minSDK=16&size=16453092&shortMd5=d469865afd672046895be73fd3c27582&crc32=1714271091&did=69cf6acbd8ffc600e3b41c4542a14b07"}, {"name": "快猫直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/23/1/110_0e45bc1353f7b5ac68b3dc1a9ff88097.apk?yingid=wdj_client&packageid=600763114&md5=d9dd9ceddda0752b4c535910fc030f65&minSDK=14&size=44676932&shortMd5=731eec0724548d74495a84ced0291cda&crc32=1076051034&did=f54aeb117e3cc805038d0f91f896f209"}, {"name": "番茄直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/2/110_95ba2679fd83e7426f5f28eb7d927875.apk?yingid=wdj_client&packageid=300510215&md5=1b12541c3716c7be103dbf9d00d606a0&minSDK=17&size=52093867&shortMd5=e0b2e275d9fc8a686ca358eaf9d53cc6&crc32=3264940764&did=c4046b999c07984d043acce213763be6"}, {"name": "企鹅FM", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/0/106_1d4abe5ff3854a4a4eb4b99907c22dfa.apk?yingid=wdj_client&packageid=400761830&md5=416a3927eefab2417b27ca3e472aaca6&minSDK=16&size=19582653&shortMd5=3b707e887131e8db77c3013e9bd45e47&crc32=834681544&did=9c8203c906f9624a706b7f20ecc6d798"}, {"name": "叉烧直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/8/110_36a5dab976a6e9f1e86339c6296e67c4.apk?yingid=wdj_client&packageid=200770875&md5=a3888c520a419df68fd748033e76dcca&minSDK=16&size=60219726&shortMd5=e7d0225385b3256f162c5f45f14698cc&crc32=36912316&did=9bdb528afdcac0a9172b055b201b1efa"}, {"name": "美女视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/07/11/110_8106663dff0d2f1147cf3277dc03c263.apk?yingid=wdj_client&packageid=300488173&md5=0729fc6d890434a6e8c407d66b4e64b0&minSDK=17&size=9725688&shortMd5=ff090e959d7bb96e05f7e30b0ac706d2&crc32=1275565021&did=84dcc2ae66e2fb527ff03c92e7b9def0"}, {"name": "风行视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/0/110_c371b1b05febb512601b904f637df749.apk?yingid=wdj_client&packageid=200773467&md5=ed8d08d93178480e51c3e45d6e57822f&minSDK=16&size=25267876&shortMd5=09e94c2a5f511baf552640b2b086f594&crc32=2619265109&did=d78115f709922a0545452f1fd5a8ae53"}, {"name": "香蕉直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/07/10/110_11ee27e8942294766fa6528e425a00c6.apk?yingid=wdj_client&packageid=700459341&md5=7f7c7f4b444a3cae018d3a5218f5fb9f&minSDK=16&size=61037854&shortMd5=4cbae5624f684db53d34f9b431601fa6&crc32=2147854063&did=8c9f5c9ef851d19d8efc099030797764"}, {"name": "猫咪视频直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/19/6/110_cdadee7fef16e4474a92ca8bfd87bf8d.apk?yingid=wdj_client&packageid=600761889&md5=4731ccc199a9cb8ae1dc9f9b1279dd79&minSDK=19&size=49988649&shortMd5=d72f0cc19001afa3496ff1bd1b480201&crc32=76321186&did=9538cf57c639db9da468567d3fad4355"}, {"name": "手机收音机", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/02/4/110_7e4ca03f74dd05f243530549c86edb78.apk?yingid=wdj_client&packageid=100452693&md5=1d6298584fd9b77848c9165d87abac5b&minSDK=19&size=4409099&shortMd5=b800a6a8d65f467b10c53cc16b9ac66d&crc32=2733146526&did=1876dc71811c4ae86212eb8bcc03bf88"}, {"name": "免费音乐", "downloadUrl": "https://android-apps.pp.cn/fs07/2016/04/06/7/102_432230796c29a68a9e04e312b558a8a4.apk?yingid=wdj_client&packageid=1197585&md5=537524b727b0a4c82f1d7fca2df851d7&minSDK=8&size=963110&shortMd5=743521d0af2a35c4e41257404f22ad13&crc32=196967642&did=1bc767b7707bec56deb85b8947312734"}, {"name": "电视家", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/07/24/4/1_f3312a958dd6867ea056d4da39e87933.apk?yingid=wdj_client&packageid=100427136&md5=280329f85378cdaf5e80ea962f77fe47&minSDK=15&size=17508246&shortMd5=278c252d869f8135156797bd0efd55fd&crc32=3302931471&did=a53705918cc7411f99411ee1a9980efa"}, {"name": "YY", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/10/106_42222c77469864ecff81712f1973c6a3.apk?yingid=wdj_client&packageid=600782210&md5=3160cbd3b4cd90faf34aa85423517618&minSDK=14&size=61380812&shortMd5=1b5bb44df2711f22ffbc252f0f6b5f1f&crc32=4135490363&did=6e098685c800d46bb70b2b4a50d3f262"}, {"name": "爱音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/21/11/2_1e16fa5560dd6b65507459a83a7b9c74.apk?yingid=wdj_client&packageid=800735682&md5=67904b3d8c7aef50083ee0f95d5a3d3f&minSDK=15&size=43921391&shortMd5=5b19ec0ebfec9cc32a9bed53e356f3e1&crc32=3661009221&did=30a4cd5b08a03e12184ab4a13d62e8ad"}, {"name": "千千音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/21/9/2_607ae450c225033c4fab0d2e2c80531d.apk?yingid=wdj_client&packageid=400756913&md5=078a6af9f00b6a2f97805133ad7dc62f&minSDK=16&size=27438187&shortMd5=b72fac5e11c30b0f8e47741b3e2bf624&crc32=2819363784&did=c7b18256d8f382450ecf8995face2be2"}, {"name": "百度影视大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/03/19/4/110_108445e0e840e06f2c5c09334d9d8e52.apk?yingid=wdj_client&packageid=600604626&md5=9edd1a6146f04c1e55d8285170b2a51d&minSDK=14&size=55467689&shortMd5=c7b6e7b94784b3b96c3b10b1f54e64d8&crc32=1008122&did=3bc3ed616f9c1e3f4278b667fffcae37"}, {"name": "1905电影网", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/8/2_b926a65c6e10ac34bc304f083bfe48c1.apk?yingid=wdj_client&packageid=600784041&md5=016a2651583e8cd0f3e4607cf0c89f9d&minSDK=16&size=48289779&shortMd5=44610c2efa4d944c2f4eca21e15886da&crc32=918658425&did=092ae16bf0cdfbc45a02ff4edf544cad"}, {"name": "妖娆直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/02/13/7/110_5b7b488f2a0f59e3cf9825b4d628e9d5.apk?yingid=wdj_client&packageid=600768302&md5=18884f8db8ee055eb0d55a77dec117f1&minSDK=16&size=14753812&shortMd5=6ef2ad9eb4e8b11915b9bd943b1b27a6&crc32=2303380203&did=18ca396788d7ba5d33ba38a55c22a343"}, {"name": "手机万能播放器", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/05/1/106_87e919cbf7027e6b82f6d7f99442cacc.apk?yingid=wdj_client&packageid=200718644&md5=e257d350759440ab3d97eee9dac1d7ae&minSDK=19&size=23081674&shortMd5=6ab3e16f58606cae6324052837d66779&crc32=1199967739&did=315c279a51ecff1fb560cbd5576e59e3"}, {"name": "西瓜影音", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/06/25/0/110_7899ddbb78145c75bdce32c3e8958855.apk?yingid=wdj_client&packageid=700427521&md5=002149c059d05fa70aa4882ebc13817c&minSDK=14&size=16338248&shortMd5=de4bcfaff6cce08e2ba4b35c914515d5&crc32=2067163552&did=bf0237540dce6f51e6ded2877b507f71"}, {"name": "火山极速版", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/11/8/110_52b04308125202916dccbd5badb49118.apk?yingid=wdj_client&packageid=100487694&md5=11767de372feaa1bac68f96b82782167&minSDK=14&size=11963669&shortMd5=1ee78938a301825505d7abf10fe37cae&crc32=4162398535&did=432f943d7b5b89dde0bb25a63bc32939"}, {"name": "免费手机铃声大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/0/2_b3f2d89e95114511bc4406a03660e25f.apk?yingid=wdj_client&packageid=600782996&md5=b93396e720205bf2fce181e8234e87c2&minSDK=17&size=5727936&shortMd5=8023bbf55182db33d269d02b5b080bde&crc32=3834569155&did=5526e0b18b1ec42a8b93636923c73381"}, {"name": "FM收音机广播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/7/106_6fc4049fefa3e9e762068a99534f1e0d.apk?yingid=wdj_client&packageid=700497913&md5=fdd0a829f71338c86848e0c697338b14&minSDK=16&size=11027007&shortMd5=ae15c616aa81a47420d0c0fe877ba7cf&crc32=1111815343&did=e60b90d876e4393789dae4c543a93df1"}, {"name": "人人视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/0/106_9c57177a0067cc0dbb33fc32becb684b.apk?yingid=wdj_client&packageid=200771665&md5=8bc62eea353ab26d7340aeab1992e39f&minSDK=18&size=48930605&shortMd5=4d435434167e6330a55c3a25e6cf562d&crc32=2373133582&did=55c3795c338b81ba26d126a7e77ab4fe"}, {"name": "酷狗唱唱", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/18/11/110_c74c5b37a807de4a201c895709f1eea8.apk?yingid=wdj_client&packageid=300506441&md5=e7dea3a9ecb819f4533a154e439dd117&minSDK=16&size=66027102&shortMd5=d3d402e10f8f8a0537608b64333b7475&crc32=897849062&did=0871b3dee17f85fafb53332a9c08c1a4"}, {"name": "小宝贝直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/3/110_84249f01321c59e910d091ae58f81309.apk?yingid=wdj_client&packageid=100493459&md5=2a3725c3cf754d4d36e4f0a0f43b5cce&minSDK=17&size=55179240&shortMd5=9f80d68764247d7e585af46391170fb4&crc32=3164290307&did=a1620e521d1d1060258af28f5c3028e6"}, {"name": "快手看片神器", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/19/5/2_ee226a898d60a742d874c556d3e676ed.apk?yingid=wdj_client&packageid=400756182&md5=3e95005fa44b1e9feb1dafc75eb94493&minSDK=14&size=39842940&shortMd5=db1ed61544354d241e397ef457bad57d&crc32=3571967670&did=56b2fa90a63118e1155c9e9d2e4939e5"}, {"name": "直播吧", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/28/6/2_a1eace8c8eeecee304bf104854333064.apk?yingid=wdj_client&packageid=600780873&md5=e1241a1265f4d8201eabc40c90659f30&minSDK=16&size=63074626&shortMd5=c9a0ba03cd697ac9269d123fa8de2312&crc32=4259591190&did=6e48fabe64c4e5327f1db51b7c2f0e27"}, {"name": "韩剧大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/1/110_147e6be97cf552ad5236cd6ad16deed7.apk?yingid=wdj_client&packageid=100496574&md5=06881179db9011d84fb2e12130527920&minSDK=16&size=21155228&shortMd5=0fb986f1e44c84d4836b7e0edd0ad778&crc32=1479527474&did=50db341b8e7197848cb380bae854daae"}, {"name": "先锋影音", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/12/7/110_6757d6eb926c8fdc45e270f736635b96.apk?yingid=wdj_client&packageid=500467245&md5=5413ed902b03d0fa07fcb6f5d9dd7169&minSDK=14&size=15079525&shortMd5=ab8c3ddaa8a7ecee273893a1440a78d6&crc32=106376903&did=46b5a19eb1ed05878a4a53c9b2413342"}, {"name": "辣舞直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/02/21/9/110_865b083a7b0034675239f0511f2effad.apk?yingid=wdj_client&packageid=500495499&md5=fb8102a235f33eadf6844b8162eb3032&minSDK=16&size=30467312&shortMd5=ac5799087461fd667ca696cd7c02cb8d&crc32=1609181153&did=2aafd38cd90ce197089ce68a8a44e108"}, {"name": "VR在线", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/16/6/110_0ddc11e8c9b5d1897be8c49902b98cbd.apk?yingid=wdj_client&packageid=800747575&md5=b91f76d097c5eb586617374f44e432a8&minSDK=19&size=13083984&shortMd5=e84839e6eaad5224bc6ab5652f768f2b&crc32=3061424074&did=f60a68eb2fab7e234229a52cbd433735"}, {"name": "迅雷影音(云播)", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/22/11/2_7b5ed7a64eee68227d0035853052d8b4.apk?yingid=wdj_client&packageid=800725906&md5=b473574198a64c77b2cb6918f2339f0e&minSDK=16&size=32955895&shortMd5=345804977cac6565069786f828799175&crc32=1892455956&did=0c6bfc2cbffda8889be52bf334a30a7c"}, {"name": "手机铃声大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/5/2_9c95ca6e46848e96c81f019f03eb68f3.apk?yingid=wdj_client&packageid=200771770&md5=9181a2debdcee4398e334d1c9da04438&minSDK=10&size=7889575&shortMd5=b1de7105fefe5b9281f8bf41d00f2625&crc32=2014357816&did=6de69f747bbbff8e49e236bd42fd73ff"}, {"name": "多米音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/10/8/106_c110a5b12c6d04030c7c65474de853c0.apk?yingid=wdj_client&packageid=400735136&md5=e91f5fab9fbac93b4cdaff7eba546ff1&minSDK=9&size=13939229&shortMd5=00525f2911744e9541c027352625368a&crc32=3840022123&did=52387f6f6046db6330830bd026fbb7ef"}, {"name": "大秀直播", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/3/2_77f0efa6c4fc180baf1135f33ec621fe.apk?yingid=wdj_client&packageid=100492718&md5=a3b5118169c7d8a12ae21daf5654bb75&minSDK=16&size=48998685&shortMd5=52495f7cd08926300563760432fd412d&crc32=3520959714&did=19a5d7910d0be69e93ce029669f21d7e"}, {"name": "免费小说听书大全", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/10/23/6/110_d1570a033cc47267f1a9f6c55a6fed03.apk?yingid=wdj_client&packageid=700455555&md5=eb595ad4332bacb6c9f0884c25db7c8e&minSDK=11&size=1991742&shortMd5=f72c857306f5b2ef28791dbe1d390e6c&crc32=2808331721&did=2415a82560ab8a0e724d36ac7e465878"}, {"name": "华为音乐", "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/9/2_86e8e7c20de5778caa02f867870e367c.apk?yingid=wdj_client&packageid=400762195&md5=8c6da8fa95da07cdb138753727ac2917&minSDK=18&size=37416250&shortMd5=80fa8b5f0d8c860458b8228bfbcd8a57&crc32=1442883069&did=901873b7e7d4b6f0fd2bdae4e4148be2"}, {"name": "蛙趣视频", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/06/05/4/2_54a55721a5609d8aca7b6b30e3a22f77.apk?yingid=wdj_client&packageid=500427163&md5=837a90a2550cf05427418fe81ba107a2&minSDK=14&size=33297796&shortMd5=a44f6a509ca6899711692882d4c5b314&crc32=3382722347&did=0785b667e73a58e9882468e3cf865b4a"}, {"name": "免费FM电台收音机", "downloadUrl": "https://android-apps.pp.cn/fs08/2018/08/27/2/2_06cc698fda941894c57ec3cd58026917.apk?yingid=wdj_client&packageid=200695104&md5=af702a792e84e2ac2d78636c245ebf09&minSDK=8&size=10524457&shortMd5=6677270c07058d8742e7966207d26595&crc32=2784997106&did=bc5c591714e683478ff71bdba1d9b325"}, {"name": "DiLiDiLi", "downloadUrl": "https://android-apps.pp.cn/fs08/2016/11/14/2/102_97a6584f8e58c89e98dcca702972ccd3.apk?yingid=wdj_client&packageid=400406857&md5=dbbce903316bb1641b99a6d0d4dc3f13&minSDK=14&size=4482079&shortMd5=6c751ed97c4a5a4ee40a84c3bd89707e&crc32=3186152836&did=e69c7689edf152648bce6ca6991ca072"}]
+[
+  {
+    "name": "支付宝",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/11/110_5c7c24aa829f93c9adfc8b491f0748ae.apk?yingid=wdj_client&packageid=400760386&md5=e0fa5c6ae55547d68ee3a31075c5a11c&minSDK=18&size=67545717&shortMd5=af29d1597c85bbea16e289938846a0e6&crc32=3880520200&did=df4d91b0c956ca760523d63f8f78f043",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "涨8",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/19/8/110_d814e4af6b5e3ee3ab8a6d4bf7893d11.apk?yingid=wdj_client&packageid=300486216&md5=d5e36d64740dd6bc2cae5ec89b53dc3c&minSDK=16&size=7537312&shortMd5=c87f463cf123764648c6e7ae0b962fa1&crc32=531399012&did=398b2efc4f2ffe0a78654a67b1e63553",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "闪银-贷款借钱",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/4/106_d88975e5eb0df43a0e94db6a8d15301e.apk?yingid=wdj_client&packageid=200769323&md5=5ac136c3a23c5add33d4147c2ccfd579&minSDK=16&size=24420228&shortMd5=1c68190e26ba2b89f15a3e66492c6579&crc32=4016463316&did=2bf35be0befb81218a0f0645470956ca",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "360贷款导航",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/14/6/110_a78ace46d457c48bab183c0d638d84a2.apk?yingid=wdj_client&packageid=100488368&md5=86869101c40c3d2819bc1b313b361b04&minSDK=17&size=11982876&shortMd5=a9d0c495602f62dde91cf984122a0db5&crc32=2855020113&did=0ada05717734a5ee19160d18e1bb5ae0",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "360借条",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/21/8/110_1f484be2528f71803f1404cd160a57fa.apk?yingid=wdj_client&packageid=800764676&md5=d6a6228655247987e59b1ef30713258d&minSDK=14&size=22299041&shortMd5=36862fc7877bbc6b860fdef3cd3c6daf&crc32=4217944886&did=1a77385a5373392fe6b78f0a12fb4713",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "同花顺炒股票",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/5/106_47124591bb368905a1a72d9ff9709be3.apk?yingid=wdj_client&packageid=200771532&md5=3aa8b10545771cfb46d89e63c03cddf2&minSDK=18&size=57927883&shortMd5=0d2cfd7971362c888d793f9d23645dae&crc32=2881682515&did=7660cd2b24c7ad09e00b2be3035fbcd5",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "中国体育彩票",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/27/1/110_a2a3427e201eaab3fdfea0388dddb861.apk?yingid=wdj_client&packageid=700493894&md5=3faee764a9df018e0c773c7d06050f0b&minSDK=16&size=50723819&shortMd5=d2614039dcbb03413a1d1ffb00330b74&crc32=1698610705&did=a8ed7a7ae0ac58cc2e50948dc7fba5de",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "小米贷款",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/18/8/110_331f3245f9e096c284a807b8444d3a7a.apk?yingid=wdj_client&packageid=100489268&md5=5b0728a5d22abd4f017a90c2ec226927&minSDK=16&size=10905549&shortMd5=46e239b40fd1a17a5ff5afcffe55def3&crc32=399180734&did=76364e80d1a4fb620a1f94db9c030629",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "宜人贷借款",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/10/110_f5f4a63c14b00cf0797b55192b5aab8c.apk?yingid=wdj_client&packageid=200771085&md5=a48a5d3506aa7c71cda5917896e96fdc&minSDK=16&size=57850615&shortMd5=1c8f3498e53618f703f5c49f65d9d1bb&crc32=2527115721&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMDU4NDA0NGBkS2V5PWY5OTk5NjRhNjdmZjIwMzkyZGQxYzE5YjYyM2JjM2YzYGlLZXk9MjE4MmM5ZDc0YzQ4NDBmMzkyNGJkN2I2MmRhZmVkNjY&did=1dc61584ea03dd3e3e22438af1397510",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "邮储银行",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/2/110_900d5ba101701b6e3c1e6577ee822ee5.apk?yingid=wdj_client&packageid=600785879&md5=da49e41d1147b039cbd0ad1acd7a0d62&minSDK=11&size=56621919&shortMd5=f5964c187f697b1d8633909b4db905df&crc32=2883754797&did=124b93f4e061815ae2160c6503e0f111",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "大智慧",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/7/106_d009081bb32972bba19d51237edd4c45.apk?yingid=wdj_client&packageid=600785881&md5=b2f0a97a6b861b2843c1de0b465b770d&minSDK=16&size=122369099&shortMd5=c509006074fb13b172c72bb66ab3e113&crc32=2662583715&did=6d6f3e39a65913d335d59e4b6aba45d7",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "速贷",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/18/5/110_c42104bacc56a099c8b4eb9c683901fb.apk?yingid=wdj_client&packageid=100489122&md5=a5d31811d334108196607d5de909f1a8&minSDK=16&size=19884678&shortMd5=b92b430cd5e682aa0c7f1a524ac56c28&crc32=2907138923&did=93cb2201ddcabe679e348f6da494cf4f",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "云闪付",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/22/10/106_c0f84d2f20c857d1be29826ca9d6a5ef.apk?yingid=wdj_client&packageid=600779623&md5=c995b74f77ef5ac1326c9a69368d6647&minSDK=16&size=71915697&shortMd5=b07c97e5774ef70ed2e6d979c399cc3e&crc32=312097872&did=542f72068e52d74adfd7d93c7042d7f5",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "来分期",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/0/106_667ed1fdf00f91507cf817d38883d7ac.apk?yingid=wdj_client&packageid=800770680&md5=58dd56f51db37e843c1d6849d979d097&minSDK=16&size=37963839&shortMd5=a31f0eb01863763c7283777ae37903c5&crc32=453076536&did=568e86f72b73b777aa1397378e618254",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "彩票之家",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/12/8/110_8c147b30262e8f5350ce9b44805ced67.apk?yingid=wdj_client&packageid=300482087&md5=bff8839363afbf516419ccb613b9bea2&minSDK=15&size=9513828&shortMd5=298d02b09d09a1bb77eda4d5d1d55e18&crc32=2294956295&did=b11240fd3342dbc498f5064b3b490227",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "东方财富",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/9/106_c64d02546cb6d7b2183dc66e8b0c002a.apk?yingid=wdj_client&packageid=400764952&md5=52f9b34c32fe51104579ab3d24c05204&minSDK=14&size=64726035&shortMd5=53b80ed37dbfd17b4770a9f654d0a170&crc32=4202170053&did=1882ad9724e5e9b7092cb54cd8dfd053",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "微贷钱包",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/15/6/110_19633fc2a8d854becd35d6a511432293.apk?yingid=wdj_client&packageid=100488819&md5=279a6475e12560b05ed9de155b1aecd8&minSDK=15&size=7076775&shortMd5=d664bdf4ef205ef39af31475a1ae35c1&crc32=3285025406&did=708ee800d4ea1f16dcfb616cd8c6a0d9",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "500彩票",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/29/8/106_c7b8a79062333664ea8b8e2b7e9783a9.apk?yingid=wdj_client&packageid=800766749&md5=4c63d64a67c8ac6713f12350507d645d&minSDK=14&size=25983492&shortMd5=a2958fb1dc20c78857308446bfb2c4a2&crc32=2917572656&did=e16b85c47f74b1ea942f01f996750e86",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "随手记",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/2/110_0d6cd3b40358d36cd2d0f6ab937e4bb1.apk?yingid=wdj_client&packageid=200773411&md5=cb0d87cf74a84106d03cf58e419762a1&minSDK=19&size=34382812&shortMd5=1879d5226230e12eb66c6963b13c524f&crc32=3812724678&pkgType=1&data=dGVzdFRhZz1uZXdgY3BUeXBlPTIxYGJpZD0zMTQ0OTAwOGBkS2V5PTM5ZjlkZjFhOGNiZDM1YzhmNDg2N2EwMzdjZGY5NjFkYGlLZXk9ZTFhMDZkM2Y3MDg2NzI3MWNiNDg0MDNjZjlhZDUwN2M&did=ae80a82010585a1cc43ef80d849192db",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "藕丁钱包",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/27/9/2_98ba7cb05ab3e9fa1dde71c2decbb4cd.apk?yingid=wdj_client&packageid=800766008&md5=d01e37affcadbca3669241aa59a15b54&minSDK=21&size=10002016&shortMd5=f48013c4c262af042ec64a3dc138ab9d&crc32=2353678104&did=ccb292b0c6117646800794dddf3ec61e",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "福利彩票",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/30/3/110_0a2b933576f099d2edd4c66d18851f2e.apk?yingid=wdj_client&packageid=700465166&md5=e02d6a3e73309fa18a4ec921837b9749&minSDK=14&size=13355416&shortMd5=e16156d5258ad5a2834b4a8ec5eb48df&crc32=3209969499&did=21508c8b6be00aa632eda1ee49ef8598",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "九秒贷",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/11/9/106_06c12298d6f22f01d916a00314528f79.apk?yingid=wdj_client&packageid=100473472&md5=575b0d9b9df584fa9799bf4076edc016&minSDK=15&size=22001539&shortMd5=b8fb4d6b4396810431ed5e60fd0c8f0b&crc32=931828252&did=a510c4645148c32584862cf73ec7c50a",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "人人贷借款",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/28/10/110_21eab344112185be96580288e67cca1c.apk?yingid=wdj_client&packageid=300508935&md5=b1e392528bb94ff36a9fe42b5e998f94&minSDK=15&size=33044744&shortMd5=c3236e146ac8ea42fd1c362093f9c9d0&crc32=2054309050&did=cbf5fe8b3848c35535fd370503c5a6be",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "手机贷",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/12/3/110_fe91c66dd63630b8a47b52293cad4c9e.apk?yingid=wdj_client&packageid=200762897&md5=ce100ca217348029643b647988ec86d7&minSDK=15&size=6569264&shortMd5=eb1e7d19c157938a413fb157aac1bc22&crc32=3043288752&did=76e2dbd4ca5b496ac438ada36fb8408d",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "拍拍贷借款",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/26/10/106_818bfd68585856a57f3e1403a4d3c4be.apk?yingid=wdj_client&packageid=400758274&md5=06b87fea5459170229b99b54c1dee459&minSDK=17&size=20341756&shortMd5=57d182378172f779b20f05a0f184ffbc&crc32=2992909407&did=79fbbd424ea6cb28a5e28d145192cf6e",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "建行企业银行",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/04/10/2_07836d6018e523e65145f28e62041790.apk?yingid=wdj_client&packageid=800768499&md5=9a4fe5a59ea9a7987421652b60f653b0&minSDK=19&size=57286108&shortMd5=f794e5ac53b03437d116d3c667de9249&crc32=1403436103&did=5c41df79ad1d75eca9cd9342ba82a0d6",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "广发证券易淘金",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/22/9/106_4618fd43d61f42b0d025461e3be52868.apk?yingid=wdj_client&packageid=800764999&md5=0cdcfc8a786aa3b13a7817da27c015bc&minSDK=17&size=36102212&shortMd5=cc5636979d3c185a24497ca7cc6ecb5a&crc32=3228236685&did=c6280b6c76986ac47d9fb71b1ff16b60",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "工行e通道",
+    "downloadUrl": "https://android-apps.pp.cn/fs01/2014/09/08/2_30257b614728b68d69f61dc4734a9b19.apk?yingid=wdj_client&packageid=100001311&md5=9390e676bf9f7fcf160f2d0efe6d9263&minSDK=8&size=2097201&shortMd5=1468bf42641073b117174e118b9a62ed&crc32=3295738672&did=f80dd572cbf0e69cdba2a06e998a7c2f",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "51信用卡管家",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/4/106_adf2891393a353b355793009152a6d0a.apk?yingid=wdj_client&packageid=400760279&md5=f3541132ab13e31287c46cf2e51e8c43&minSDK=19&size=43837239&shortMd5=65cc8f98fd9a6a3749c6ed4a2acaeef1&crc32=1418903203&did=3a2aaf70000a10af929e0550688fbf82",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "平安口袋银行",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/10/2_b79e808c8b93b5f65d2205cf651dca40.apk?yingid=wdj_client&packageid=800767622&md5=55e5660dcf33e6ac046486aa9de68e11&minSDK=16&size=71908630&shortMd5=dd69ab21cbd78047d9ce6f2bf8cffed5&crc32=4001617816&did=fb60939f9b72c9250cff2637c701abd2",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "双色球2015",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/07/12/5/2_8103be14bf839b3dc40c9dad6c5e4063.apk?yingid=wdj_client&packageid=500436995&md5=315d26056949a49e0a68dbe54890f9d2&minSDK=9&size=7674659&shortMd5=2b3a4a4d20133cb7adaeda4d5bb9291a&crc32=2953341142&did=454b8471637da641daacaf8c1397d59a",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "滴滴金融",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/4/110_b21dbc1638edce16b5ee4b653bdaf2dc.apk?yingid=wdj_client&packageid=100495204&md5=ec99314901cdd31d0636e130beed5df6&minSDK=19&size=33711959&shortMd5=3528dc8e95391383bb2c7d76883893d9&crc32=3329297999&did=af13ec7d3f53cbea9d93f7d5c116cae4",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "借钱花呗",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/0/106_3bdf401e445e52714e7dae00f35d534c.apk?yingid=wdj_client&packageid=500507917&md5=0c3a2cf2e246c66df106a00ad23ca003&minSDK=15&size=7206631&shortMd5=6416dd28da6775813e7509e30b2c984b&crc32=604652262&did=c75f0356378f5d32e22379e2250bde28",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "惠花花",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/04/6/110_3c948d618f48eefef3c6a76d85bddb8a.apk?yingid=wdj_client&packageid=700495570&md5=3fbc04de0dae7025e60035be7d7c306f&minSDK=16&size=35365391&shortMd5=46898ab4af3a563408daa9210668cbcf&crc32=880815720&did=f5f626448efa1266c88e6050efda9a68",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "中彩网",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/10/24/5/110_5bd7da3543cae716e96a1537d321fb3d.apk?yingid=wdj_client&packageid=800715525&md5=0a471b26424e6bc10d3df16c5a0842de&minSDK=14&size=48680201&shortMd5=5e1d6fe5596c714a019c05eb2844a272&crc32=3020040209&did=5e4f658445543a68f5724c679e16f8ab",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "快贷",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/08/5/106_1ec0f1f624eeda5c7f761415e4ac709c.apk?yingid=wdj_client&packageid=600783861&md5=ca81a1145a0f9b80803b1146e668d2b1&minSDK=16&size=40669342&shortMd5=e70877590b768ed1908253beb3d2bb2e&crc32=3576819630&did=51fb2856a89511a3a082908b75849ec3",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "通达信",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/24/6/106_d665db510315ebaac3600e78bd2cc7b9.apk?yingid=wdj_client&packageid=500502379&md5=9626c3bd1c100b5eef1047b849e3f3c0&minSDK=17&size=47021799&shortMd5=87d12be23c372b023ceafaa79cc87098&crc32=4054862178&did=c2dc17f14e6d1f6cd88d48ae59d614b3",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "一元赚",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/21/9/106_aa8006eccac98e6be2d3394bc39c5bef.apk?yingid=wdj_client&packageid=500477791&md5=34c2405015f896cb07e3547299d4ab8a&minSDK=16&size=3701354&shortMd5=6fd62c8a498e6bf77d1cece788dc320c&crc32=578818820&did=dc5bc274e992669ee46089d50ec8d1f9",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "短线王",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/28/7/110_9fc7b8b24cec833996611b6d627505f5.apk?yingid=wdj_client&packageid=400758922&md5=8b37f40df55361c1752fdf93beb5739c&minSDK=19&size=24294847&shortMd5=37dc40ed0217e848da4f94022dc0e205&crc32=3492048341&did=4af4f422b9fd4eeed152b7f801338318",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "民生银行",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/3/106_8350ff15fd2f0155c1b9af388014bb5b.apk?yingid=wdj_client&packageid=200769490&md5=1adfcca518237107ad0c3b6d413bb2ff&minSDK=14&size=73342336&shortMd5=d90893a5b69e7f5011df231b082dd503&crc32=1988754715&did=b9dc8a1f780c049688729b278d39d027",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "兴业银行",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/01/2/106_82b4569590dc8117ea8e1c3f5e63c0ec.apk?yingid=wdj_client&packageid=600772837&md5=141169c65c1698d0b3983f13052aa37d&minSDK=16&size=86995575&shortMd5=b90c780b3388c01a96a8616d3a99556d&crc32=1046924198&did=6f3fbd082f73e1268611d33bafe7f07b",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "买单吧",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/11/11/106_722b700dffcb46e9a723de3a763c3870.apk?yingid=wdj_client&packageid=800761350&md5=a4edec03859343320eecdee4dcbb4cc4&minSDK=19&size=80677161&shortMd5=bb3e4e53863eb754e6dbf753674b7a21&crc32=3626037247&did=06f26f51d841d89d9fbb4559eba019b9",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "360贷款导航",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/14/6/110_a78ace46d457c48bab183c0d638d84a2.apk?yingid=wdj_client&packageid=100488364&md5=86869101c40c3d2819bc1b313b361b04&minSDK=17&size=11982876&shortMd5=a9d0c495602f62dde91cf984122a0db5&crc32=2855020113&did=b1c035489961e8b5a9974d7fe157d992",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "魔法现金",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/23/3/106_f323dfb80c1d9ba4beeb5c4d9df5c3f4.apk?yingid=wdj_client&packageid=800726262&md5=fea290de5b8401d788090344760bd577&minSDK=16&size=36558298&shortMd5=897936fbc2283fbec20c9f0a1ba2bf86&crc32=3421465823&did=e9710fca5e9f818cb80ebaebeba789f7",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "港彩码王",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2016/04/25/8/102_5eba6167bbacfb978b2e3fc186345bf9.apk?yingid=wdj_client&packageid=500104797&md5=d757965bf60bc69618472e8467ed58c6&minSDK=8&size=3116274&shortMd5=74b7aaea83bce63b2c6abc9b7ad5b623&crc32=162223136&did=678d78965d1886980991908b5e7c98b6",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "你我贷借款",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/6/106_bb80564a557e95b6dcca640e035b7259.apk?yingid=wdj_client&packageid=700498387&md5=4c0a84f891dc28d20d9e8192ee01355c&minSDK=16&size=19141123&shortMd5=f1672d3654e1328d42aae24a16706ce9&crc32=1959283802&did=c87443e749d80e41b20296341cd78fbb",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "立即贷",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/03/6/110_55153dfbc37a43b60b6796defedf0208.apk?yingid=wdj_client&packageid=100493427&md5=353babbf45a9f7d52d69f08fe00ecb9b&minSDK=17&size=13192146&shortMd5=4edaa7c6ed3c111f0312b4659f6361d9&crc32=1951177343&did=ca5246c962d6c95111dd54ed2217ca12",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "有钱花",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/13/5/1_26f995bd1f8ef1b4495ff7db5182563c.apk?yingid=wdj_client&packageid=500499994&md5=af132eceea27d51d354b702c86ed45a4&minSDK=14&size=13813613&shortMd5=57e0dec0ff7b7d58b0a4c30f42a50bfc&crc32=4114281256&did=cae81bcd0b247f231b0cf3e35fe76034",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "福彩双色球彩票",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/05/3/110_be19c95347e7855f84e0c6546af0c3b1.apk?yingid=wdj_client&packageid=600742477&md5=e137cf0d27c68fc02070aac119d4fa65&minSDK=14&size=13532959&shortMd5=b98676ce71e95544432d09373a8a07e5&crc32=2494266937&did=914aa455660381b5d2e51adeb047d99a",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "钱站",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/28/3/1_f7eb5a029dbce3d3e36394529a4a1c94.apk?yingid=wdj_client&packageid=800766568&md5=35dc75c3ff0cd167fb6f2b2d82441002&minSDK=16&size=18119889&shortMd5=dc04af2906869d3ce6ae526025259d5c&crc32=4113042387&did=c355470550627c76f0d81b77d250b4ed",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "身份证借钱",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/01/31/5/110_9a44bbbb375e472a54f4742ed1900e5a.apk?yingid=wdj_client&packageid=700362727&md5=143f9dd7a28610d793d93ad6ff8e869e&minSDK=20&size=10379015&shortMd5=8a4e32500beea046a0bdf5ac59f2afeb&crc32=3764815498&did=d593b27b2793ca7b0b73f35d68704c72",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "菠萝贷",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/11/1/110_4a995a9e88792c0429bf914740e85fc2.apk?yingid=wdj_client&packageid=800769910&md5=aec56b3088108fa3ad4e54104727be5e&minSDK=17&size=14053404&shortMd5=934f8c9481b4b9b13530205d258a976b&crc32=1074923497&did=6caf481d397880bc8d85c63b1b48401d",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "趣花分期",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/8/1_a9a511d92969e400060ca43722585aa1.apk?yingid=wdj_client&packageid=400764314&md5=68f2268cf11f5017dab6d798802a80f5&minSDK=19&size=20168946&shortMd5=bf0fba888aa0471322ccbf953941c37a&crc32=1225880586&did=6990f01e5e0e50b0bf81f2461abd626a",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "捷信超贷",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/27/8/110_13383286d76e463f7610d57c9760095b.apk?yingid=wdj_client&packageid=200767431&md5=3eb51b18085e866057b8349d0d9e4e34&minSDK=19&size=17961091&shortMd5=d4c0c56112e412f19241cfa51d93eb05&crc32=760565228&did=3e3dd1f276956dd35baa79dbda711c15",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "洋钱罐借款",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/28/2/110_9c74a76acf7f1f45a03f505d27ee8de2.apk?yingid=wdj_client&packageid=200767841&md5=30b08600fb0bbb085235a7bfd073aa0e&minSDK=16&size=13322682&shortMd5=5bc7e328f017760c8cef7d51e482b9fe&crc32=2120341170&did=9bd5a8b47ceeab33032f990d8c466ff1",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "光大信用卡",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/20/2/106_c6034522cff4259392e76a00710dd23d.apk?yingid=wdj_client&packageid=700492437&md5=ca07a844c7e896c1b141026eb04b40a0&minSDK=19&size=103301855&shortMd5=d8ac142fd593eac6c0a599c761c28fb4&crc32=545451805&did=18af169d8ca000cdbbed3f50a5d9978a",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "薄荷好借",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/25/0/110_82e5f15da69ff60cec8bee6787119255.apk?yingid=wdj_client&packageid=400742050&md5=7fdbeac86af2d1bbfe5676273e1ac4fc&minSDK=14&size=14934717&shortMd5=cf19c99659a029d6a34222649eaf731e&crc32=2389850813&did=749a76f8daec87ba50393f31c7a7331b",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "借钱多",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/11/9/110_a5e61b63e53ae9b63771a5c636421e72.apk?yingid=wdj_client&packageid=200762327&md5=60dd0023cce473f68d375d7a5f47cff2&minSDK=16&size=17704595&shortMd5=593be47c7f1ae29dbc87c05cc8ae4431&crc32=2868795277&did=2152608252743b16269568e0a8081fdc",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "助力钱包",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/10/110_56b23d1f78d9e0673e9307526f658d35.apk?yingid=wdj_client&packageid=800771126&md5=29d7d303b3efbbb129f42ee9250481b6&minSDK=19&size=15139278&shortMd5=8fbfcfcf5e84976e97768ede351f1bef&crc32=4061181165&did=9c18f825b6a7a1ab38be250c41dd652e",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "2345贷款王借款",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/10/2_da0a2a955c0b394f8a338c1b207991eb.apk?yingid=wdj_client&packageid=600782000&md5=f04a4365e8d457280045642f93e99665&minSDK=19&size=8448296&shortMd5=b994c35e6745b79954a809b4a08e026a&crc32=956947204&did=504940fdd9f63aba6a872a3f7a64f57f",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "浦发银行信用卡浦大喜奔",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/10/110_776d6a3a2bb2e7f9ddb6b1ca7c13fee4.apk?yingid=wdj_client&packageid=500505843&md5=a15ec8811af844b5d26571567c9eba67&minSDK=14&size=114144018&shortMd5=a7f73200d2c2ee9e4841050368dec0af&crc32=2417872581&did=d4d0fc65ad96dba3e61dc1638328803b",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "萝卜投研",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/10/1/110_12676cf7e67479b4c8259896e1abca82.apk?yingid=wdj_client&packageid=300511389&md5=726d397d5190bb8f41f100d524958bda&minSDK=15&size=30321946&shortMd5=fce818e37fd04eabd1ecdf3489344c94&crc32=942772253&did=545098302ade7f5bdbe2d9d7cbd923dd",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "桔子快贷",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/15/3/110_3ae43095aead07131ce29ae13d5c02c4.apk?yingid=wdj_client&packageid=800762843&md5=92baaa92aea9358b684d6385891d4fa4&minSDK=15&size=17982597&shortMd5=1257866c3daa15a4a06ce355e73b1ddb&crc32=3814253417&did=174080beeae15d270ba0bfc954677375",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "信而富",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/10/110_7c1c6b97a5d7cb07b20d09d510bf9be9.apk?yingid=wdj_client&packageid=500506490&md5=474e01e577fe67c2570f7f3789d9e374&minSDK=16&size=34030913&shortMd5=0dae75e4ec60bbc82090da75181f0f30&crc32=1421229523&did=cd8877ccb782ddcf1823480632a58dec",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "平安证券",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/1/106_99dad22a68124ea43b64fee56003f267.apk?yingid=wdj_client&packageid=200770761&md5=0c741d9d27653c3fd3fbf9ce20a6e416&minSDK=15&size=52988159&shortMd5=d32d06b5b37bf6b39952af8edccd865c&crc32=3166415&did=578fd36d3492673975472443a2c156aa",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "动卡空间",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/10/106_32775cef433d96c7e079edf1da2beb39.apk?yingid=wdj_client&packageid=600786649&md5=fef807807dff77a06924ee80ba69ac66&minSDK=19&size=77434381&shortMd5=0c0521fb606d5b7117d577c03ed4eb94&crc32=2853023170&did=a9e3efecbd2f062496268db80b9d65a4",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "工行企业手机银行",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/5/2_21ea189a4ac6ece90dd1088111715e62.apk?yingid=wdj_client&packageid=700497584&md5=a043dc06540c09fdddfe1e1dccd71bcc&minSDK=16&size=73502067&shortMd5=c27b306e396cc4b309a23170a8d8eee5&crc32=2342784449&did=5603b8bb9b855c4f9ef11c61ea548e64",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "一点分期",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/04/1/110_c88f0f63ec02da77e38f21371a62249a.apk?yingid=wdj_client&packageid=600783410&md5=1a942eae7178cb53ad983357f9fac5a7&minSDK=16&size=14414149&shortMd5=bcae40e50004989da7e305a505015b7c&crc32=640609424&did=71ac24064e9f5edbda9049eb9a4b8bc3",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "我来贷",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/4/106_0d22107a32fd67d8fefb43a0a959f780.apk?yingid=wdj_client&packageid=400760113&md5=6069589b50b5313659c0325702546075&minSDK=16&size=26547657&shortMd5=136d4aafdddcbb8c7163837e6487d38f&crc32=1359362396&did=5514e59ed345e08394be2391488de3b3",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "浦发手机银行",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/9/2_76c02a93abb49919cc7da50190e2c0cf.apk?yingid=wdj_client&packageid=400760241&md5=5170c9f894709be251c4f617dcf42329&minSDK=14&size=88120060&shortMd5=9ac375151148fd01126a354755e85f04&crc32=3800163095&did=322105c90e3f3a6b0051a105d5aa25aa",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "幸运飞艇计划推荐",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/04/09/0/110_202a1ceaa13f0a3fa3f9de9fa6b027b6.apk?yingid=wdj_client&packageid=500379752&md5=76ba9e9cc38ded631cd05b78351cf4ed&minSDK=9&size=6600884&shortMd5=021d9c1d764b650790e4d839be6dbb53&crc32=879034816&did=3b42d2c55826e91e5aae2fd42202c130",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "大王贷款",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/11/8/110_de672e027499a1207182c9746d1f5866.apk?yingid=wdj_client&packageid=300491092&md5=e7b23bcdca4b4cf1ecfe3e71ae238ac9&minSDK=15&size=17533382&shortMd5=f463edd29487df6d3d495b069f108f9c&crc32=3460090562&did=7f40659c288ba5171a2120277c92e44b",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "京东金融",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/19/6/1_ab5d0d105fc79ba0b20bdf0c22eb2c9f.apk?yingid=wdj_client&packageid=400765263&md5=35332524b05d8ec200660b3f0aba2e97&minSDK=14&size=67871976&shortMd5=489d55ac3997a740f7ce09bc45a87097&crc32=1144234913&did=a91f9d91d74fea501c55ded93adfe5ae",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "易中奖",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/07/3/110_008ac646cd7de1d909c289367676d3be.apk?yingid=wdj_client&packageid=500474197&md5=7b919ec3810a3efaa7c65a9284b9fdac&minSDK=19&size=30096448&shortMd5=1a8c5e18b90bb7da668e8ef342c6d59e&crc32=1517516781&did=12fa2086546a10a100dce6b83cdc86a3",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "现金巴士",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/13/6/110_7eeee9b231ed48271d16207c09795140.apk?yingid=wdj_client&packageid=400724456&md5=1040efc0754fd5ac5590bb79d3e2da53&minSDK=16&size=11813891&shortMd5=a6535b6dfdc5e1997d1daf13e79e7a4e&crc32=3632654639&did=7b664ee8f7d787558d4f37671b8a32eb",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "中邮钱包",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/18/3/106_db7d1959ab3ebb02e818e7bb5acc3e14.apk?yingid=wdj_client&packageid=600787111&md5=687924a44ee0ce341b76d46a964a0aa4&minSDK=16&size=41502020&shortMd5=acfac6e25eb1940927fda98df7ff6a7a&crc32=3792203077&did=259acd3c4809a8110e08065060c5c219",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "11选5彩票",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2017/07/13/4/110_12dde6facb2ae9e95ae55345cd19f38a.apk?yingid=wdj_client&packageid=800513371&md5=df17e19a43a86446587df7b30f716dae&minSDK=14&size=14687891&shortMd5=fb55061c6ffa0f3e34c85ea1f3b55b50&crc32=2512251334&did=45ea437447b6b0ef5b0c76b717d2d6db",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "短借钱包",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/01/8/2_9891b0d843ac06eed0a570162b171a0c.apk?yingid=wdj_client&packageid=300509703&md5=4b759ba3e592d5afcb594622013ede00&minSDK=14&size=26483082&shortMd5=039d348e69679c96f4814cd6704b8be2&crc32=689763678&did=f2d5ccbf248a1d5ec20f32cb1fef1af2",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "光大银行",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/11/2_cecd995cdfd1ddb4555447e0cc9d289c.apk?yingid=wdj_client&packageid=600784145&md5=a6c17ddbe52cf0c276d3695c0eef830d&minSDK=15&size=75141648&shortMd5=003d97206b7be67199d58fff5fa3581a&crc32=2115278063&did=e5db9ce8b2c920c33789fbf307a3a4a0",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "彩票预测大师",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/01/26/11/110_e01cc41c95fd95ff43df2dfe44d6d3fe.apk?yingid=wdj_client&packageid=700361618&md5=38da14c8b114eac2919853790cf7b37c&minSDK=15&size=4210393&shortMd5=1fe68a97f423d6f785d8e5e9bf55c5d4&crc32=1641237565&did=dd6b46bb22d52b0ca8ef4f792acc8faf",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "时光分期",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/0/2_59c23fb270be9fac735ae6a7d5932c77.apk?yingid=wdj_client&packageid=600782295&md5=3b67c16a55bf922ecb149ea09e4a1f33&minSDK=14&size=13791466&shortMd5=3e503ee76d9c1f614663bb7c155b7c93&crc32=4078066203&did=31c9a0cc44cc83892adf752418e1c988",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "炒股票入门",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/01/03/3/106_5361b96c19b0af2ca85f4d11bff31ebd.apk?yingid=wdj_client&packageid=600752082&md5=9e7a2f14afb11d6d5042823a9b184c58&minSDK=15&size=61341528&shortMd5=aff10289ddc6ce6401af651c3ce411bc&crc32=3858064182&did=293295a75e5b97272fc1432f99622c8d",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "万达普惠",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/09/3/110_42d8411e246e3530da37b0657ae443ae.apk?yingid=wdj_client&packageid=100494455&md5=0ec9b58bffa4893b9eebc7a60a3fb375&minSDK=16&size=41169765&shortMd5=2c2bed124d05a9df5da1cdf5852c2d71&crc32=851555123&did=3d47705428bc75aa892809065bf5d7cc",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "BOC",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/11/20/2/2_0a11bcad9cb0b37b7b0c2cf851264268.apk?yingid=wdj_client&packageid=500469401&md5=07818964e6fb694903b8a60d373b1b7e&minSDK=15&size=25150239&shortMd5=95d820d693c5352bd90c996f3cb3c560&crc32=1358672048&did=3c7a45dce4d2eaa3e35c9d8ad736da76",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "随手借",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/15/10/106_bb44cf9c7ecfeced7fa4915b7d9fee73.apk?yingid=wdj_client&packageid=400763730&md5=569913d21d663543848a4083f377ee38&minSDK=15&size=26846652&shortMd5=9480462318fb6fe0d24f1c3ff5b24f64&crc32=3416435494&did=d6689521436c3566b791eff95a52a10b",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "51人品贷",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/12/19/9/110_3af66612bd9b0bd09235a9a0220eac3d.apk?yingid=wdj_client&packageid=600747325&md5=52262d86ce2f5f09231676b293305329&minSDK=19&size=27988115&shortMd5=bd1d5747d501af28890aa7fd3285ebcf&crc32=732152347&did=0375208d050235e78ff0f80cc7991f43",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "乐贷款",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/19/0/110_8bccfbde972a334f5cc4fb1c05e36d3d.apk?yingid=wdj_client&packageid=800763703&md5=176689ae9746f43cb66d1f60c208b302&minSDK=19&size=21877272&shortMd5=1acec9bed45615ddfd76062b3c80a397&crc32=5733262&did=2653bb1762504d12729f4e1f0e171625",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "涨乐财富通",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/17/1/106_51915b0f9fe0db756eec83692815ea0f.apk?yingid=wdj_client&packageid=400764533&md5=e731ba879b145b5bec66fe741e96453c&minSDK=19&size=37567772&shortMd5=781af4aa1b3518242ca682675daae8a4&crc32=2856483609&did=0f353c21f1828e768fcc9e944d4a867c",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "幸运飞艇",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2017/05/04/4/110_f48c59ba3b2837bd55581934c19a8039.apk?yingid=wdj_client&packageid=200486916&md5=d6e8c13488ec8651305442251bf98d82&minSDK=13&size=4064248&shortMd5=7b624ff76636f5355d01c95187b82c8e&crc32=228206288&did=107dd99ad1b0f83ae61f2b77cf167e48",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "选股宝",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/20/0/110_beceaf0f304a9bf07563ea5b594efc7a.apk?yingid=wdj_client&packageid=300513719&md5=90c7672bfe5fe2ddbb9c1017ec8f5fe1&minSDK=21&size=17989045&shortMd5=d5ec1b72acdee31821287fdcd8733bdb&crc32=1623719472&did=25778377614913b7c102863d3577f26f",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "发现精彩",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/30/11/106_f0ddc996f442ecbb13c3253a72a0f42f.apk?yingid=wdj_client&packageid=500503952&md5=792fb083307a2469c76f621d44412d9d&minSDK=19&size=80164741&shortMd5=465ab84c6873876682d1b75a2d5e1855&crc32=686494613&did=4d9b7d134cfb1466975d00c0a279b188",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "大智慧经典版",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/16/0/2_5703165221a1a27b5b752bb7bd9cc2d0.apk?yingid=wdj_client&packageid=200772563&md5=7f6e0bf8fb23fa28ff22402e066d8d29&minSDK=16&size=5933927&shortMd5=9929931786d649c9d827eea800db74ad&crc32=876731837&did=8b4436efe07a335287cc7c6931d2d097",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "我的选号工具",
+    "downloadUrl": "https://android-apps.pp.cn/fs01/2015/01/30/10/2_9d2f2dc81b487bacfa97f1755e834bfd.apk?yingid=wdj_client&packageid=500016127&md5=7e0214e314ea48eda863887f949671e7&minSDK=8&size=996151&shortMd5=da6afc264e779b9118ebb08dba5dd267&crc32=1888251582&did=ee7a672ddd71215532d1c66be11a96bc",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "现金借款到账快",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/12/8/110_0b0c66cd096e4e43999ddea9072c977b.apk?yingid=wdj_client&packageid=300512000&md5=9589e1164bed26dffcae896d4a8f901a&minSDK=15&size=9915682&shortMd5=9ed180085c718b716f8ba6a5dfd80f9d&crc32=3697667022&did=307cf95752657769570534fc45df15c3",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "点点中彩票",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2017/11/08/1/110_fba8d4475ad5208513a7c6be5cdae87d.apk?yingid=wdj_client&packageid=200547847&md5=8c4e781b6c08a49855ddbf869bdaf317&minSDK=14&size=9713755&shortMd5=f2c8751db10c220fa2e846a34c94b1d0&crc32=2790404502&did=6880ea838c0e8d6da2723b6dc0c23855",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "黃大仙",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2017/04/19/7/2_eff738f1c1734cd54a8ce29efaf32be6.apk?yingid=wdj_client&packageid=700292975&md5=156756c3563dea786c25ba944dff935f&minSDK=15&size=35764253&shortMd5=7a0cd7b9979148543c54a59cde729dbf&crc32=267486955&did=ca472be989ae7fe70be22cf3e1c863dc",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "指南针",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/04/02/8/2_fd5606d23b6a1305b51e8d64cf6e5be8.apk?yingid=wdj_client&packageid=800767656&md5=0efe22757d323cebd01dbb6a24e3fec6&minSDK=17&size=20183277&shortMd5=8907b9343a654de1199197fc142883f6&crc32=604423404&did=3ab1dc93b5240e96cc542b218f50b4cc",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "手机在线",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/02/21/7/106_b063e072ce708bb616f9f4adb119b0eb.apk?yingid=wdj_client&packageid=200757809&md5=a9029b8303ac5715c4f5c3ca8cb0017d&minSDK=15&size=21122453&shortMd5=cda9765f994abb0d61ec32373233065e&crc32=1805673000&did=61c3757d48b1c0be7d733d54ed8a856e",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "中国农业行业",
+    "downloadUrl": "https://android-apps.pp.cn/233/6067945_1404376559.apk?yingid=wdj_client&packageid=1820465&md5=49550914a4818ae89b678a2f7081edc8&minSDK=7&size=6902536&shortMd5=015110d47929d06fa07629f3fc5c02eb&crc32=1191121954&did=fc0f1724261addfc00d2c3d2db048273",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "和包支付",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/06/11/106_870622b3723bb838dbf5c3214d52419c.apk?yingid=wdj_client&packageid=200761292&md5=5a6435eed39727b9bc1856b4cde7335d&minSDK=15&size=63702585&shortMd5=91c8ca4ceb4831fd8c83c63115ae62b8&crc32=2136829717&did=10b3aeb5836d7784f61dfaf501d9d94f",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "好易借",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2019/03/29/5/110_d844129ea0f60f3b07aaf516c717b6f2.apk?yingid=wdj_client&packageid=200768151&md5=2d997207c2a7fa82e106a5e84c4b33e8&minSDK=19&size=18466569&shortMd5=cfe5b92905308651cc66dc9a0d24e749&crc32=888173459&did=cd585726e454c666aaf7259d61cba27b",
+    "categoryName": "金融理财"
+  },
+  {
+    "name": "小伍钱包",
+    "downloadUrl": "https://android-apps.pp.cn/fs08/2018/08/02/1/110_d92fe8501a82f143415eb9192b8f34e5.apk?yingid=wdj_client&packageid=400680937&md5=213e4daabc4113f9d3ddb9146168ad1d&minSDK=14&size=12206764&shortMd5=9a4dc7df17a469e915f228835d3e66db&crc32=1189740389&did=2a736ac055fdcfd6d377d64b03962523",
+    "categoryName": "金融理财"
+  }
+]
